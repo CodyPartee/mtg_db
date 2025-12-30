@@ -22,6 +22,11 @@ dataStandard = {}
 dataCommander = {}
 dataModern = {}
 dataAll = {}
+metaData = {}
+metaData['standard'] = {}
+metaData['commander'] = {}
+metaData['modern'] = {}
+metaData['all'] = {}
 ################STATE VARIABLES END################
 
 for rarity in rarities:
@@ -29,6 +34,10 @@ for rarity in rarities:
     dataCommander[rarity] = []
     dataModern[rarity] = []
     dataAll[rarity] = []
+    metaData['standard'][rarity] = 0
+    metaData['commander'][rarity] = 0
+    metaData['modern'][rarity] = 0
+    metaData['all'][rarity] = 0
 
 if not os.path.exists(filePath):
     try:
@@ -116,6 +125,7 @@ try:
                 if len(cardStorage) > 0:
                     with open(f'.\\standard\\{rarity}\\{fileCount}.json', 'w') as metaOutput:
                             json.dump(cardStorage, metaOutput, indent=4)
+                metaData['standard'][rarity] = fileCount
                 fileCount = 1
                 cardStorage = []
 
@@ -130,6 +140,7 @@ try:
                 if len(cardStorage) > 0:
                     with open(f'.\\commander\\{rarity}\\{fileCount}.json', 'w') as metaOutput:
                             json.dump(cardStorage, metaOutput, indent=4)
+                metaData['commander'][rarity] = fileCount
                 fileCount = 1
                 cardStorage = []
             
@@ -144,6 +155,7 @@ try:
                 if len(cardStorage) > 0:
                     with open(f'.\\modern\\{rarity}\\{fileCount}.json', 'w') as metaOutput:
                             json.dump(cardStorage, metaOutput, indent=4)
+                metaData['modern'][rarity] = fileCount
                 fileCount = 1
                 cardStorage = []
             
@@ -158,8 +170,12 @@ try:
                 if len(cardStorage) > 0:
                     with open(f'.\\all\\{rarity}\\{fileCount}.json', 'w') as metaOutput:
                             json.dump(cardStorage, metaOutput, indent=4)
+                metaData['all'][rarity] = fileCount
                 fileCount = 1
                 cardStorage = []
+
+            with open(f'.\\meta_data.json', 'w') as metaOutput:
+                json.dump(metaData, metaOutput, indent=4)
 
 except Exception as e:
     pass
