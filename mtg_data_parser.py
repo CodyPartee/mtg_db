@@ -10,7 +10,7 @@ localFileName = 'card_data.json'
 rarities = ['common','uncommon','rare','mythic','land']
 formats = ['standard','commander','modern','all']
 filePath = os.path.join('.\\', localFileName)
-maxCards = 50
+maxCards = 100
 ################CONSTANTS END################
 
 ################STATE VARIABLES################
@@ -71,7 +71,6 @@ try:
                     os.mkdir(f'.\\{format}\\land')
 
         for rarity in rarities:
-            # metaData[set][rarity] = {}
             fileCardCount = 0
             fileCount = 1
             for card in data:
@@ -87,7 +86,6 @@ try:
                     cardType = card['type_line']
                     cardFront = ''
                     cardBack = ''
-                    # print(card['name'])
 
                     try:
                         cardImageFront = card['image_uris']['normal'].split('?')[0]
