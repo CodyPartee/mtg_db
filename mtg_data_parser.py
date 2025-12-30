@@ -10,7 +10,7 @@ localFileName = 'card_data.json'
 rarities = ['common','uncommon','rare','mythic','land']
 formats = ['standard','commander','modern','all']
 filePath = os.path.join('.\\', localFileName)
-maxCards = 100
+maxCards = 200
 ################CONSTANTS END################
 
 ################STATE VARIABLES################

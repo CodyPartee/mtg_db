@@ -1,702 +1,1402 @@
 [
     {
-        "cardName": "Treasure Vault",
-        "cardSet": "afr",
-        "cardType": "Artifact Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/a/0/a0931eb3-b403-4b1a-ad46-a7b0a51bb9a4.jpg",
+        "cardName": "Frost Marsh",
+        "cardSet": "csp",
+        "cardType": "Snow Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/e/9/e9320033-d8d7-4a01-80db-60de222040e6.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Scattered Groves",
-        "cardSet": "otc",
-        "cardType": "Land \u2014 Forest Plains",
-        "cardFront": "https://cards.scryfall.io/normal/front/0/8/0834b6e2-7a92-4767-8aca-9ec8961cd33e.jpg",
+        "cardName": "Selesnya Guildgate",
+        "cardSet": "fdn",
+        "cardType": "Land \u2014 Gate",
+        "cardFront": "https://cards.scryfall.io/normal/front/6/7/6718d4e7-768e-473f-8064-a68422e977f6.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Waterveil Cavern",
-        "cardSet": "chk",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/4/0/405805e0-07f6-420f-86f9-5bde822caa5c.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Sejiri Steppe",
-        "cardSet": "ddg",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/d/4/d45b0ed8-8692-4fa7-b32c-30d29028da3d.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Inspiring Vantage",
-        "cardSet": "otj",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/8/5/85df6b6a-2dcf-4828-a4a8-e07d52e1fddd.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "North Pole Gates",
-        "cardSet": "tla",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/b/c/bcf7b9da-d35d-4338-b4d9-83e47dc058ee.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Vesuva",
-        "cardSet": "tsr",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/0/7/0726f70a-c1c4-4edb-86fb-9be280d9ea73.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Sunpetal Grove",
-        "cardSet": "tdc",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/5/6/565b4aaa-1990-4cb2-b519-2c0b1c9d5d18.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Turntimber Symbiosis // Turntimber, Serpentine Wood",
-        "cardSet": "znr",
-        "cardType": "Sorcery // Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/6/1/61bd69ea-1e9e-46b0-b1a1-ed7fdbe3deb6.jpg",
-        "cardBack": "https://cards.scryfall.io/normal/back/6/1/61bd69ea-1e9e-46b0-b1a1-ed7fdbe3deb6.jpg"
-    },
-    {
-        "cardName": "Irrigated Farmland",
-        "cardSet": "eoc",
-        "cardType": "Land \u2014 Plains Island",
-        "cardFront": "https://cards.scryfall.io/normal/front/3/c/3cbc4f0a-6735-461c-ae7a-3c2ce342c4da.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Yavimaya Coast",
-        "cardSet": "tdc",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/9/f/9f98bf0c-74cf-49da-8b60-b2d3ac294a82.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Ice Tunnel",
+        "cardName": "Great Hall of Starnheim",
         "cardSet": "khm",
-        "cardType": "Snow Land \u2014 Island Swamp",
-        "cardFront": "https://cards.scryfall.io/normal/front/8/c/8cff3ef0-4dfb-472e-aa1e-77613dd0f6d8.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Blinkmoth Nexus",
-        "cardSet": "2xm",
         "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/3/a/3ac535c1-9ef3-45b5-8959-7e79589d47ad.jpg",
+        "cardFront": "https://cards.scryfall.io/normal/front/a/2/a23c757e-5944-47ce-b06f-27b4c403044c.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Hostile Desert",
-        "cardSet": "mkc",
-        "cardType": "Land \u2014 Desert",
-        "cardFront": "https://cards.scryfall.io/normal/front/d/7/d71031c2-7379-4d83-b6d6-61f3104593c4.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Base Camp",
-        "cardSet": "znr",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/d/c/dc85412e-333d-4e7d-8c85-40618cf1b6c2.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Murmuring Bosk",
-        "cardSet": "dmc",
-        "cardType": "Land \u2014 Forest",
-        "cardFront": "https://cards.scryfall.io/normal/front/5/a/5aca73a9-e90d-48c6-bdd9-9a3f4f552de3.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Fetid Heath",
-        "cardSet": "tdc",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/1/6/16af23b7-db97-4dd0-84c2-c0095f6dbe96.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Halimar Depths",
+        "cardName": "Necroblossom Snarl",
         "cardSet": "dsc",
         "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/6/3/63eb18e0-c723-4de4-8498-c5362c75b2b4.jpg",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/d/ddf6ece8-d7c8-43a7-a318-f6eac2932b15.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Encroaching Wastes",
-        "cardSet": "cmr",
+        "cardName": "Lonely Sandbar",
+        "cardSet": "eoc",
         "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/a/5/a591bffd-2f03-48f4-a719-04f2142abd77.jpg",
+        "cardFront": "https://cards.scryfall.io/normal/front/4/2/42f8591e-df30-49ec-962c-a75d32e6d9f5.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Blood Crypt",
-        "cardSet": "ecl",
-        "cardType": "Land \u2014 Swamp Mountain",
-        "cardFront": "https://cards.scryfall.io/normal/front/6/d/6da63cc5-4624-4491-abd9-9b600c3fefe2.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Riptide Laboratory",
-        "cardSet": "mh2",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/2/5/25a9cb87-e572-4885-8561-1d4b158ec7e4.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Urza's Cave",
-        "cardSet": "mh3",
-        "cardType": "Land \u2014 Urza's Cave",
-        "cardFront": "https://cards.scryfall.io/normal/front/9/2/926916ed-2f22-4ba9-9427-194886ad6c1e.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Drossforge Bridge",
-        "cardSet": "mh2",
-        "cardType": "Artifact Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/5/b/5b46b8d8-723a-4752-b97d-29ef83bd294c.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Sacred Foundry",
-        "cardSet": "eoe",
-        "cardType": "Land \u2014 Mountain Plains",
-        "cardFront": "https://cards.scryfall.io/normal/front/8/b/8b4e2642-3c87-4708-b9b4-2e7f7359ac7d.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Blossoming Sands",
-        "cardSet": "tdm",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/0/a/0a9df994-e0f4-4919-af99-4f643eb9199c.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Lorehold Campus",
-        "cardSet": "stx",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/d/3/d35461cf-becf-4399-8329-64b4496b7fc2.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Port Town",
-        "cardSet": "cmm",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/d/1/d15c035d-1309-4286-a758-07517f323f34.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Nomad Outpost",
-        "cardSet": "tdm",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/a/6/a68fbeaa-941f-4d53-becd-f93ed22b9a54.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Hengegate Pathway // Mistgate Pathway",
+        "cardName": "Sulfurous Mire",
         "cardSet": "khm",
-        "cardType": "Land // Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/7/e/7ef37cb3-d803-47d7-8a01-9c803aa2eadc.jpg",
-        "cardBack": "https://cards.scryfall.io/normal/back/7/e/7ef37cb3-d803-47d7-8a01-9c803aa2eadc.jpg"
-    },
-    {
-        "cardName": "Howltooth Hollow",
-        "cardSet": "lrw",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/5/c/5c678643-6640-49e1-a5b0-2954123bcabc.jpg",
+        "cardType": "Snow Land \u2014 Swamp Mountain",
+        "cardFront": "https://cards.scryfall.io/normal/front/3/5/35ebe245-ebb5-493c-b9c1-56fbfda9bd66.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Skybridge Towers",
-        "cardSet": "snc",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/e/2/e28c871f-a96a-4e7d-a159-2e93aeb276d4.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Snow-Covered Wastes",
-        "cardSet": "mh3",
-        "cardType": "Basic Snow Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/8/7/87870792-e429-4eba-8193-cdce5c7b6c55.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Tolaria West",
-        "cardSet": "tsr",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/b/0/b005eef6-75f3-454f-a42b-d851bc84ac4e.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Stormcarved Coast",
-        "cardSet": "inr",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/2/a/2a91991f-4340-45a7-ba04-0001de9581e0.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Shambling Vent",
-        "cardSet": "clb",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/1/f/1f5bf05a-04a1-4dde-845b-eced21a785fa.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Bleeding Woods",
-        "cardSet": "dsk",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/c/b/cb224874-aff5-461f-82ee-89b06663231a.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Grasping Dunes",
-        "cardSet": "akh",
-        "cardType": "Land \u2014 Desert",
-        "cardFront": "https://cards.scryfall.io/normal/front/a/8/a8fcc939-6a31-4fb3-abe7-7663b85868dd.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Daily Bugle Building",
-        "cardSet": "spm",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/6/6/669bbcb1-0981-40e7-905e-b94e74bc4861.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Ojer Taq, Deepest Foundation // Temple of Civilization",
-        "cardSet": "lci",
-        "cardType": "Legendary Creature \u2014 God // Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/1/c/1ca79dd4-67fc-496c-96fc-489b039c4932.jpg",
-        "cardBack": "https://cards.scryfall.io/normal/back/1/c/1ca79dd4-67fc-496c-96fc-489b039c4932.jpg"
-    },
-    {
-        "cardName": "Riverglide Pathway // Lavaglide Pathway",
+        "cardName": "Shatterskull Smashing // Shatterskull, the Hammer Pass",
         "cardSet": "znr",
-        "cardType": "Land // Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/2/6/2668ac91-6cda-4f81-a08d-4fc5f9cb35b2.jpg",
-        "cardBack": "https://cards.scryfall.io/normal/back/2/6/2668ac91-6cda-4f81-a08d-4fc5f9cb35b2.jpg"
+        "cardType": "Sorcery // Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/b/c/bc7239ea-f8aa-4a6f-87bd-c35359635673.jpg",
+        "cardBack": "https://cards.scryfall.io/normal/back/b/c/bc7239ea-f8aa-4a6f-87bd-c35359635673.jpg"
     },
     {
-        "cardName": "Tectonic Edge",
-        "cardSet": "c14",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/9/4/94b9d7af-3e6f-4227-bb7d-a17d6f250535.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Maze's End",
-        "cardSet": "fdn",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/e/a/ea9a4d1a-79dd-4b15-8e3b-f111f16d6bfc.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Unstable Frontier",
-        "cardSet": "con",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/d/9/d97e739f-8675-488e-be2b-4e455fbe390b.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Spawning Bed",
+        "cardName": "Skyline Cascade",
         "cardSet": "bfz",
         "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/e/3/e3a532b2-de88-40af-8961-b01eada05bd3.jpg",
+        "cardFront": "https://cards.scryfall.io/normal/front/2/9/29b0027d-c232-4cdd-89c4-75947687aa71.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Maelstrom of the Spirit Dragon",
-        "cardSet": "tdm",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/c/4/c4e90bfb-d9a5-48a9-9ff9-b0f50a813eee.jpg",
+        "cardName": "Kher Keep",
+        "cardSet": "mkc",
+        "cardType": "Legendary Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/1/5/15cfec15-95b5-47d6-9714-ff920ce97932.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Sea Gate Restoration // Sea Gate, Reborn",
-        "cardSet": "znr",
-        "cardType": "Sorcery // Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/1/9/193071fe-180b-4d35-ba78-9c16675c29fc.jpg",
-        "cardBack": "https://cards.scryfall.io/normal/back/1/9/193071fe-180b-4d35-ba78-9c16675c29fc.jpg"
-    },
-    {
-        "cardName": "Teetering Peaks",
-        "cardSet": "zen",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/e/5/e56aca36-bb51-45e3-9ef9-9f9f2aa1e088.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Tangled Islet",
-        "cardSet": "dsc",
-        "cardType": "Land \u2014 Forest Island",
-        "cardFront": "https://cards.scryfall.io/normal/front/7/b/7b994b5a-4b67-49b6-859d-ae706fc465ca.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Swarmyard",
-        "cardSet": "tsr",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/b/8/b89329f2-d386-40a7-9098-6d80beeb8843.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Magosi, the Waterveil",
-        "cardSet": "zen",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/3/c/3c84cf70-4164-47ea-8da1-c0ca1ac132e1.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Restless Ridgeline",
-        "cardSet": "lci",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/a/b/abde5bed-dc4e-4b2b-820c-18d4d0cf8042.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Urza's Saga",
-        "cardSet": "mh2",
-        "cardType": "Enchantment Land \u2014 Urza's Saga",
-        "cardFront": "https://cards.scryfall.io/normal/front/c/1/c1e0f201-42cb-46a1-901a-65bb4fc18f6c.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Captivating Cave",
-        "cardSet": "lci",
-        "cardType": "Land \u2014 Cave",
-        "cardFront": "https://cards.scryfall.io/normal/front/1/d/1d1a645e-85c7-4044-b817-6e24744d245e.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Lindblum, Industrial Regency // Mage Siege",
-        "cardSet": "fin",
-        "cardType": "Land \u2014 Town // Instant \u2014 Adventure",
-        "cardFront": "https://cards.scryfall.io/normal/front/5/4/548dd152-f0b6-4e8f-9afc-a4ec1671b648.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Night Market",
-        "cardSet": "dft",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/a/8/a8c1dce3-6136-4294-9d2b-5ef8527d733b.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Blighted Cataract",
-        "cardSet": "c21",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/a/6/a6d03a79-4219-492f-bf9a-0b810e97e5f5.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Edgewall Inn",
-        "cardSet": "woe",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/e/c/ec435e54-628a-43bd-8804-cbc37e375bce.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Midgar, City of Mako // Reactor Raid",
-        "cardSet": "fin",
-        "cardType": "Land \u2014 Town // Sorcery \u2014 Adventure",
-        "cardFront": "https://cards.scryfall.io/normal/front/8/a/8a837256-6bb4-4a60-962d-d2793548d26c.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Kishla Village",
-        "cardSet": "tdm",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/9/f/9f0ff90d-7312-44df-afc5-29c768fa7758.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Ishgard, the Holy See // Faith & Grief",
-        "cardSet": "fin",
-        "cardType": "Land \u2014 Town // Sorcery \u2014 Adventure",
-        "cardFront": "https://cards.scryfall.io/normal/front/0/6/068bc755-9d3d-430b-abc5-c775a5415bf9.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Kavaron, Memorial World",
-        "cardSet": "eoe",
-        "cardType": "Land \u2014 Planet",
-        "cardFront": "https://cards.scryfall.io/normal/front/6/0/60f3ca25-9dcc-4781-bf7b-ab6736d8db29.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Crypt of Agadeem",
-        "cardSet": "tdc",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/1/8/18adafe6-de67-4101-8b39-b53ab695ec4a.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Graven Cairns",
-        "cardSet": "dsc",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/7/4/74a13fea-4f48-428b-b42b-4ba63d4752ed.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Sunken Citadel",
-        "cardSet": "lci",
-        "cardType": "Land \u2014 Cave",
-        "cardFront": "https://cards.scryfall.io/normal/front/3/e/3e1c9b1a-e306-47bb-9f68-2083660319c0.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Desert of the Mindful",
-        "cardSet": "c21",
-        "cardType": "Land \u2014 Desert",
-        "cardFront": "https://cards.scryfall.io/normal/front/5/1/517f71a7-ec5b-46a6-b5ff-8c06abf0a630.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Susur Secundi, Void Altar",
-        "cardSet": "eoe",
-        "cardType": "Land \u2014 Planet",
-        "cardFront": "https://cards.scryfall.io/normal/front/a/e/aefb8c0d-2bc6-4bec-851e-0137b4abfb22.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Riverpyre Verge",
-        "cardSet": "dft",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/5/7/57a93a71-d77c-417f-85d0-cd420f573331.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Grasping Shadows // Shadows' Lair",
-        "cardSet": "lci",
-        "cardType": "Enchantment // Land \u2014 Cave",
-        "cardFront": "https://cards.scryfall.io/normal/front/8/1/81b8b9c9-725d-476d-a3cf-55e3dc3e433d.jpg",
-        "cardBack": "https://cards.scryfall.io/normal/back/8/1/81b8b9c9-725d-476d-a3cf-55e3dc3e433d.jpg"
-    },
-    {
-        "cardName": "Dimir Guildgate",
+        "cardName": "Secluded Courtyard",
         "cardSet": "fdn",
-        "cardType": "Land \u2014 Gate",
-        "cardFront": "https://cards.scryfall.io/normal/front/f/9/f9b8a159-5e58-4432-8ecd-62f39afa96da.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Moorland Haunt",
-        "cardSet": "voc",
         "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/7/4/74deeeaa-95e9-42c9-89e3-e317ea63e216.jpg",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/1/d13373d2-139b-48c7-a8c9-828cefc4f150.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Prairie Stream",
-        "cardSet": "tdc",
-        "cardType": "Land \u2014 Plains Island",
-        "cardFront": "https://cards.scryfall.io/normal/front/f/a/fa0af5ea-e9e1-4247-bde2-759c2653fc00.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Tangled Florahedron // Tangled Vale",
-        "cardSet": "znr",
-        "cardType": "Creature \u2014 Elemental // Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/2/3/235d1ffc-72aa-40a2-95dc-3f6a8d495061.jpg",
-        "cardBack": "https://cards.scryfall.io/normal/back/2/3/235d1ffc-72aa-40a2-95dc-3f6a8d495061.jpg"
-    },
-    {
-        "cardName": "Primal Beyond",
-        "cardSet": "mor",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/b/4/b4c28c1d-0ebf-4e95-8d0a-56be10cc0ef2.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Warped Landscape",
-        "cardSet": "c18",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/3/d/3d313741-af67-47fd-9beb-8abc7d554715.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Sandsteppe Citadel",
-        "cardSet": "tdm",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/4/7/47f47e7f-39ba-4807-8e32-7262a61dfbba.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Mirrex",
-        "cardSet": "one",
-        "cardType": "Land \u2014 Sphere",
-        "cardFront": "https://cards.scryfall.io/normal/front/5/4/54a702cd-ca49-4570-b47e-8b090452a3c3.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Riveteers Overlook",
+        "cardName": "Temple of Epiphany",
         "cardSet": "eoc",
         "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/3/d/3dc4e8b8-6ee6-49aa-895a-2e35af6d1dbb.jpg",
+        "cardFront": "https://cards.scryfall.io/normal/front/a/4/a4ee2565-a630-4c7b-93c2-8baba3d3441e.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Spire of Industry",
-        "cardSet": "eoc",
+        "cardName": "Branch of Vitu-Ghazi",
+        "cardSet": "mkm",
         "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/3/5/35e9ec06-a848-4230-84a2-19cb8034e0f0.jpg",
+        "cardFront": "https://cards.scryfall.io/normal/front/7/3/73a8169f-b858-47a5-9c76-2e7c50ad4ecd.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Agadeem's Awakening // Agadeem, the Undercrypt",
-        "cardSet": "znr",
-        "cardType": "Sorcery // Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/6/7/67f4c93b-080c-4196-b095-6a120a221988.jpg",
-        "cardBack": "https://cards.scryfall.io/normal/back/6/7/67f4c93b-080c-4196-b095-6a120a221988.jpg"
-    },
-    {
-        "cardName": "Sharlayan, Nation of Scholars",
-        "cardSet": "fin",
-        "cardType": "Land \u2014 Town",
-        "cardFront": "https://cards.scryfall.io/normal/front/7/a/7a745b5e-cdb8-4d05-ac5c-87be69536da6.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Swamp",
-        "cardSet": "tla",
-        "cardType": "Basic Land \u2014 Swamp",
-        "cardFront": "https://cards.scryfall.io/normal/front/f/0/f0b234d8-d6bb-48ec-8a4d-d8a570a69c62.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Fortified Village",
-        "cardSet": "tdc",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/4/a/4a0aeb3a-923a-4b97-9d27-ea7e0b57de75.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Hydroelectric Specimen // Hydroelectric Laboratory",
-        "cardSet": "mh3",
-        "cardType": "Creature \u2014 Weird // Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/8/6/8689ecd7-e9a6-458b-99d2-6dbaca527f00.jpg",
-        "cardBack": "https://cards.scryfall.io/normal/back/8/6/8689ecd7-e9a6-458b-99d2-6dbaca527f00.jpg"
-    },
-    {
-        "cardName": "Orzhov Guildgate",
-        "cardSet": "fdn",
-        "cardType": "Land \u2014 Gate",
-        "cardFront": "https://cards.scryfall.io/normal/front/a/9/a917be03-0c17-4454-b044-c4375e5c8085.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Mirrorpool",
-        "cardSet": "cmm",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/0/4/0441cd2c-3646-4c69-ae97-ad3bcea7466f.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Mines of Moria",
+        "cardName": "Minas Tirith",
         "cardSet": "ltr",
         "cardType": "Legendary Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/0/b/0be723d6-4ada-4c3f-b87b-8ab83a4bbb8f.jpg",
+        "cardFront": "https://cards.scryfall.io/normal/front/b/3/b38b6760-616f-4b11-8ce7-ac1223c7fd53.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Unclaimed Territory",
+        "cardName": "Geier Reach Sanitarium",
         "cardSet": "lcc",
+        "cardType": "Legendary Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/4/b/4b9c92f0-4242-4a3e-9ede-6a4935f5c75d.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Fertile Thicket",
+        "cardSet": "ddr",
         "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/e/7/e7bd3aaa-864c-4cbb-bbab-68d87c824e3d.jpg",
+        "cardFront": "https://cards.scryfall.io/normal/front/c/3/c30fb2f1-f0a6-430f-86e5-817b55da469e.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Golden Guardian // Gold-Forge Garrison",
-        "cardSet": "rix",
-        "cardType": "Artifact Creature \u2014 Golem // Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/3/9/397ba02d-f347-46f7-b028-dd4ba55faa2f.jpg",
-        "cardBack": "https://cards.scryfall.io/normal/back/3/9/397ba02d-f347-46f7-b028-dd4ba55faa2f.jpg"
-    },
-    {
-        "cardName": "Mystifying Maze",
-        "cardSet": "c17",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/f/a/faeeb2f8-0aa1-4f3e-848d-f4233996055b.jpg",
+        "cardName": "Mouth of Ronom",
+        "cardSet": "csp",
+        "cardType": "Snow Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/2/d/2d8f7396-23d3-48e2-8686-2b59ccbfc7e5.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Molten Tributary",
-        "cardSet": "dmu",
-        "cardType": "Land \u2014 Island Mountain",
-        "cardFront": "https://cards.scryfall.io/normal/front/2/0/20aff4af-5128-432f-a8c8-65b6909d31ac.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Mishra's Factory",
-        "cardSet": "dmr",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/6/e/6e9fec20-a52c-42c0-9928-c572d9e1b21f.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Barkchannel Pathway // Tidechannel Pathway",
-        "cardSet": "khm",
-        "cardType": "Land // Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/b/6/b6de14ae-0132-4261-af00-630bf15918cd.jpg",
-        "cardBack": "https://cards.scryfall.io/normal/back/b/6/b6de14ae-0132-4261-af00-630bf15918cd.jpg"
-    },
-    {
-        "cardName": "Urza's Factory",
-        "cardSet": "tsr",
-        "cardType": "Land \u2014 Urza's",
-        "cardFront": "https://cards.scryfall.io/normal/front/d/0/d03f17f1-b0fd-4b84-82ea-085c2f87eeda.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Sundown Pass",
-        "cardSet": "inr",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/1/2/12ca1b4f-3e98-4ad4-93fe-c4c2de09aa58.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Blackcleave Cliffs",
-        "cardSet": "dsc",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/f/7/f75715ce-744f-409c-aeb1-e66eb9186a74.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Snow-Covered Island",
-        "cardSet": "khm",
-        "cardType": "Basic Snow Land \u2014 Island",
-        "cardFront": "https://cards.scryfall.io/normal/front/3/b/3bfa5ebc-5623-4eec-89ea-dc187489ee4a.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Sheltering Landscape",
+        "cardName": "Shifting Woodland",
         "cardSet": "mh3",
         "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/0/f/0fe070f4-8877-4280-b8fd-869f3ac34ab6.jpg",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/5/059164e1-894d-4586-9800-e60d6fbd6eb6.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Lilypad Village",
-        "cardSet": "blb",
+        "cardName": "Branchloft Pathway // Boulderloft Pathway",
+        "cardSet": "znr",
+        "cardType": "Land // Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/5/0511e232-2a72-40f5-a400-4f7ebc442d17.jpg",
+        "cardBack": "https://cards.scryfall.io/normal/back/0/5/0511e232-2a72-40f5-a400-4f7ebc442d17.jpg"
+    },
+    {
+        "cardName": "Temple of Malice",
+        "cardSet": "fdn",
         "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/7/e/7e95a7cc-ed77-4ca4-80db-61c0fc68bf50.jpg",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/7/d78eccc4-1500-43f1-94f5-b39c160b6381.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Foreboding Ruins",
+        "cardName": "Haunted Fengraf",
+        "cardSet": "c18",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/9/7/97a1d55a-39a8-4bf4-91b7-5565146c9c40.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Mosswort Bridge",
+        "cardSet": "tdc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/1/4/1490c0dc-06d6-45ee-af3c-2935b0ab1233.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Looming Spires",
+        "cardSet": "bfz",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/b/8/b88177a2-de41-417d-a8f1-07edf005b453.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Journey to Eternity // Atzal, Cave of Eternity",
+        "cardSet": "rix",
+        "cardType": "Legendary Enchantment \u2014 Aura // Legendary Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/8/d81c4b3f-81c2-403b-8a5d-c9415f73a1f9.jpg",
+        "cardBack": "https://cards.scryfall.io/normal/back/d/8/d81c4b3f-81c2-403b-8a5d-c9415f73a1f9.jpg"
+    },
+    {
+        "cardName": "Arcane Sanctum",
         "cardSet": "dsc",
         "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/e/9/e9236b80-fa80-4da3-a357-db7749011499.jpg",
+        "cardFront": "https://cards.scryfall.io/normal/front/c/7/c75eeb97-3249-4762-84b0-387f27fb255f.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Glacial Floodplain",
+        "cardName": "Rockface Village",
+        "cardSet": "blb",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/6/2/62799d24-39a6-4e66-8ac3-7cafa99e6e6d.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Restless Cottage",
+        "cardSet": "woe",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/7/8/787eadf3-5005-4ae5-820f-4012a4d4e1a5.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Temple of Mystery",
+        "cardSet": "tdc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/a/f/af2de306-8a58-43fe-a0fe-dc8a545b8630.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Racers' Ring",
+        "cardSet": "snc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/2/a/2a11bdb2-a269-4038-85f3-69fbd02982e9.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Isolated Chapel",
+        "cardSet": "tdc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/2/3/2358a441-4ef7-469c-bb9c-c6ff4d719658.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Throne of Makindi",
+        "cardSet": "znr",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/5/d5a0563e-c83b-40df-abf6-51c83bf6792d.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Rupture Spire",
+        "cardSet": "cmr",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/c/7/c7ef4b15-efab-4255-ac2d-7794f253aa52.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Eiganjo, Seat of the Empire",
+        "cardSet": "neo",
+        "cardType": "Legendary Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/c/3/c375a022-5b57-496d-a802-e4ea8376e9e4.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Eldrazi Temple",
+        "cardSet": "cmm",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/c/b/cbab7e1f-305e-4733-aa70-b27285740925.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Shattered Landscape",
+        "cardSet": "tdc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/f/8/f8373e5a-94bb-4aa0-bd09-13a01e0cb02a.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Hissing Quagmire",
+        "cardSet": "ogw",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/6/e/6ef11b54-205a-48e9-92d0-5d416be869ef.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Sinister Hideout",
+        "cardSet": "spm",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/2/3/23190d7e-5165-49bd-b307-bf81877d228d.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Spikefield Hazard // Spikefield Cave",
+        "cardSet": "znr",
+        "cardType": "Instant // Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/a/6/a69541db-3f4e-412f-aa8e-dec1e74f74dc.jpg",
+        "cardBack": "https://cards.scryfall.io/normal/back/a/6/a69541db-3f4e-412f-aa8e-dec1e74f74dc.jpg"
+    },
+    {
+        "cardName": "The Dross Pits",
+        "cardSet": "one",
+        "cardType": "Land \u2014 Sphere",
+        "cardFront": "https://cards.scryfall.io/normal/front/1/9/19d469f1-2219-4466-9f8a-769ee43e28db.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Memorial to Genius",
+        "cardSet": "c21",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/1/d/1d96dd97-ce88-4576-8261-c7866a06275d.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Drowned Catacomb",
+        "cardSet": "otc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/7/07b4a6dd-0e2f-43be-93c6-7578c34a9443.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Song-Mad Treachery // Song-Mad Ruins",
+        "cardSet": "znr",
+        "cardType": "Sorcery // Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/7/8/782ca27f-9f18-476c-b582-89c06fb2e322.jpg",
+        "cardBack": "https://cards.scryfall.io/normal/back/7/8/782ca27f-9f18-476c-b582-89c06fb2e322.jpg"
+    },
+    {
+        "cardName": "Stensia Bloodhall",
+        "cardSet": "isd",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/c/c/cc2741d8-2c02-4acd-8ca2-55b4bf6aef1c.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Xander's Lounge",
+        "cardSet": "snc",
+        "cardType": "Land \u2014 Island Swamp Mountain",
+        "cardFront": "https://cards.scryfall.io/normal/front/5/4/54f449ff-4025-465e-9ec5-a5cf42c4c9d3.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Unknown Shores",
+        "cardSet": "thb",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/4/9/492181e4-5825-45d4-b8a1-37f29c32a845.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Shefet Dunes",
+        "cardSet": "otc",
+        "cardType": "Land \u2014 Desert",
+        "cardFront": "https://cards.scryfall.io/normal/front/c/9/c9b0a526-73b0-4501-80a3-f16dbef9cdfd.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Evendo, Waking Haven",
+        "cardSet": "eoe",
+        "cardType": "Land \u2014 Planet",
+        "cardFront": "https://cards.scryfall.io/normal/front/2/f/2fa09104-acbe-4410-b101-2fe6ac28efde.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Mystic Monastery",
+        "cardSet": "eoc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/9/f/9fd41ad5-6b36-482e-8305-bbc709668470.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Rumble Arena",
+        "cardSet": "tla",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/3/f/3f5d2c38-663c-4f64-8cfc-c102462e82ef.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Underground Mortuary",
+        "cardSet": "mkm",
+        "cardType": "Land \u2014 Swamp Forest",
+        "cardFront": "https://cards.scryfall.io/normal/front/f/6/f6ca59cd-8779-4a84-a54b-e863b79c61f0.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Arctic Flats",
+        "cardSet": "csp",
+        "cardType": "Snow Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/6/0/609b15f6-e65b-46d6-95e8-dc39f25d7efa.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Eden, Seat of the Sanctum",
+        "cardSet": "fin",
+        "cardType": "Land \u2014 Town",
+        "cardFront": "https://cards.scryfall.io/normal/front/e/2/e28eac1e-adc7-4f8d-b206-bef09ba07d38.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Guadosalam, Farplane Gateway",
+        "cardSet": "fin",
+        "cardType": "Land \u2014 Town",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/f/dfcbc131-fd50-4908-b539-c8e52bb70c58.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Nykthos, Shrine to Nyx",
+        "cardSet": "ths",
+        "cardType": "Legendary Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/8/3/834b27a0-dfd7-4f96-8cde-cacac4b24acc.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Eroded Canyon",
+        "cardSet": "otj",
+        "cardType": "Land \u2014 Desert",
+        "cardFront": "https://cards.scryfall.io/normal/front/5/c/5c9d080f-28d7-41d6-a4e0-5b3e3a5ed770.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Desert of the Indomitable",
+        "cardSet": "otc",
+        "cardType": "Land \u2014 Desert",
+        "cardFront": "https://cards.scryfall.io/normal/front/5/7/5728f3ec-62bc-4c56-9242-bc2a5fa175ee.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Orzhova, the Church of Deals",
+        "cardSet": "gpt",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/9/0/9015cc09-56c9-4d8f-b241-a0cfaec7e1f1.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Gilt-Leaf Palace",
+        "cardSet": "lrw",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/c/c/cc4bbbb5-4218-4b2a-9ca2-de4d5f5dda19.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Underground River",
+        "cardSet": "dsc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/5/e/5e50c8d5-6b22-4fc6-87ea-3d7d77ced17f.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "The Fair Basilica",
+        "cardSet": "one",
+        "cardType": "Land \u2014 Sphere",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/1/01d6ba55-7bc0-41c6-84be-8cd528e46a05.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Promising Vein",
+        "cardSet": "lci",
+        "cardType": "Land \u2014 Cave",
+        "cardFront": "https://cards.scryfall.io/normal/front/e/9/e9681a54-6413-4ff4-b6b1-ee4decb25bfa.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Dismal Backwater",
+        "cardSet": "tdm",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/8/082b52c9-c46e-44d3-b723-546ba528e07b.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Darkbore Pathway // Slitherbore Pathway",
         "cardSet": "khm",
-        "cardType": "Snow Land \u2014 Plains Island",
-        "cardFront": "https://cards.scryfall.io/normal/front/9/d/9de5fadd-4559-479f-b45d-abe792f0f6e5.jpg",
+        "cardType": "Land // Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/8/7/87a4e5fe-161f-42da-9ca2-67c8e8970e94.jpg",
+        "cardBack": "https://cards.scryfall.io/normal/back/8/7/87a4e5fe-161f-42da-9ca2-67c8e8970e94.jpg"
+    },
+    {
+        "cardName": "The Biblioplex",
+        "cardSet": "stx",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/8/e/8eae4481-977f-4bb7-bb1a-ab7100e6ba47.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Celestial Colonnade",
+        "cardSet": "uma",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/4/c/4c830a99-595b-4aed-9f6b-85a78917f498.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Command Bridge",
+        "cardSet": "eoe",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/2/4/247670d2-a7cd-4ed7-9c77-704c7962b815.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Barad-d\u00fbr",
+        "cardSet": "ltr",
+        "cardType": "Legendary Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/e/b/eb5038af-06b0-401e-8dea-a1a8483788ae.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Conqueror's Galleon // Conqueror's Foothold",
+        "cardSet": "xln",
+        "cardType": "Artifact \u2014 Vehicle // Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/2/02bb4b2a-3c9f-48ab-b2a5-ae31f06b82d9.jpg",
+        "cardBack": "https://cards.scryfall.io/normal/back/0/2/02bb4b2a-3c9f-48ab-b2a5-ae31f06b82d9.jpg"
+    },
+    {
+        "cardName": "Botanical Sanctum",
+        "cardSet": "otj",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/c/c/cc18d5f4-a56a-4f7d-9f56-ccc92cbfb7f7.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Vitu-Ghazi, the City-Tree",
+        "cardSet": "afc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/3/3/33145080-077e-4231-96ca-e8b1852b6380.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Eiganjo Castle",
+        "cardSet": "chk",
+        "cardType": "Legendary Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/2/1/219c1d76-40cf-4edf-8145-e6cec8ca39ad.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Cavern of Souls",
+        "cardSet": "lci",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/3/a/3aad15a2-8a1b-4460-9b06-e85863081878.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Temple of Enlightenment",
+        "cardSet": "eoc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/d/dd139d4d-3a40-4015-93de-c838c64156c6.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Gavony Township",
+        "cardSet": "moc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/c/e/ce46c4e2-a515-41d7-8d70-d20cf4925996.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "River of Tears",
+        "cardSet": "mkc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/6/7/67b626cc-1c12-4059-afa5-e5a1221ea1ba.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Restless Fortress",
+        "cardSet": "woe",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/6/7/675213bb-28d7-460c-a4f3-950f5b9090af.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Balamb Garden, SeeD Academy // Balamb Garden, Airborne",
+        "cardSet": "fin",
+        "cardType": "Land \u2014 Town // Legendary Artifact \u2014 Vehicle",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/0/001e9f20-5b15-41cb-bf82-46172decc235.jpg",
+        "cardBack": "https://cards.scryfall.io/normal/back/0/0/001e9f20-5b15-41cb-bf82-46172decc235.jpg"
+    },
+    {
+        "cardName": "Jwar Isle Refuge",
+        "cardSet": "znc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/6/d/6d103181-25a1-4928-ac37-adf11038d5b5.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Alpine Meadow",
+        "cardSet": "khm",
+        "cardType": "Snow Land \u2014 Mountain Plains",
+        "cardFront": "https://cards.scryfall.io/normal/front/8/7/8702d6b9-bb01-4841-a76d-4a576066c772.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Raging Ravine",
+        "cardSet": "clb",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/a/1/a1c981c0-3e40-4339-a4c8-ad96c7fb68d2.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Sapseep Forest",
+        "cardSet": "c21",
+        "cardType": "Land \u2014 Forest",
+        "cardFront": "https://cards.scryfall.io/normal/front/8/1/81d3099d-4f22-425c-8955-903b6cfb88d3.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Darksteel Citadel",
+        "cardSet": "c21",
+        "cardType": "Artifact Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/2/b/2ba7597d-6d76-45b8-b172-342999e401bd.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Vector, Imperial Capital",
+        "cardSet": "fin",
+        "cardType": "Land \u2014 Town",
+        "cardFront": "https://cards.scryfall.io/normal/front/1/0/10e5648e-4884-41e3-95f8-c76f6bca01e2.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Yavimaya, Cradle of Growth",
+        "cardSet": "mh2",
+        "cardType": "Legendary Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/4/e/4e4b6e22-93b2-4896-bba5-0ceaa5d8ea3c.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Revitalizing Repast // Old-Growth Grove",
+        "cardSet": "mh3",
+        "cardType": "Instant // Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/3/03522b6b-31ec-4126-8885-5dbb2248688b.jpg",
+        "cardBack": "https://cards.scryfall.io/normal/back/0/3/03522b6b-31ec-4126-8885-5dbb2248688b.jpg"
+    },
+    {
+        "cardName": "Secluded Steppe",
+        "cardSet": "eoc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/a/a/aaa5bee9-3f6a-45b0-a282-6b23222e948f.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Cloudcrest Lake",
+        "cardSet": "chk",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/9/b/9bcbd030-762e-4754-ae95-685d59ccdfb9.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Primal Amulet // Primal Wellspring",
+        "cardSet": "xln",
+        "cardType": "Artifact // Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/4/d4d379b5-7f56-4a7d-a4ac-131fc3d579c6.jpg",
+        "cardBack": "https://cards.scryfall.io/normal/back/d/4/d4d379b5-7f56-4a7d-a4ac-131fc3d579c6.jpg"
+    },
+    {
+        "cardName": "Rugged Prairie",
+        "cardSet": "eoc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/8/1/81d91591-8d44-40cc-9941-c455f9722958.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Shrine of the Forsaken Gods",
+        "cardSet": "mkc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/4/4/4472d5fb-ca8f-43d0-a95d-5bd8bdb6a02d.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Nurturing Peatland",
+        "cardSet": "mh1",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/2/7/2744ac83-a79f-4042-8720-688b5adda382.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Bucolic Ranch",
+        "cardSet": "otj",
+        "cardType": "Land \u2014 Desert",
+        "cardFront": "https://cards.scryfall.io/normal/front/6/c/6c4f6b81-53d0-49fb-b404-c2ad67de7493.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Razortrap Gorge",
+        "cardSet": "dsk",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/9/8/98d0d067-b52d-47ec-ba7b-8cfcd716c0e5.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Safe Haven",
+        "cardSet": "tsb",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/1/d130205f-53e3-4c04-967c-4808d7945880.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Boros Garrison",
+        "cardSet": "clu",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/7/6/76ec3366-98f3-4903-8f7b-cfcdd60e3be1.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Stone Quarry",
+        "cardSet": "cmr",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/a/a/aa3575e1-7d2c-4777-b469-16f7483bb8e7.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Restless Anchorage",
+        "cardSet": "lci",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/e/3/e3cab352-734e-454b-8b58-733165f4b3b3.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Inventors' Fair",
+        "cardSet": "kld",
+        "cardType": "Legendary Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/2/7/275471e3-ded1-40ac-91ef-369dce5764d9.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Sea Gate Wreckage",
+        "cardSet": "cmm",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/1/c/1c137634-7531-4573-9bfa-623d8edf839c.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Castle Embereth",
+        "cardSet": "tdc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/3/3/337f2d97-b317-4c10-b151-7acccf38fca8.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Thran Portal",
+        "cardSet": "dmu",
+        "cardType": "Land \u2014 Gate",
+        "cardFront": "https://cards.scryfall.io/normal/front/e/f/ef074a2e-a387-4af8-a180-74b145d93992.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Hidden Cataract",
+        "cardSet": "lci",
+        "cardType": "Land \u2014 Cave",
+        "cardFront": "https://cards.scryfall.io/normal/front/6/9/69f317fc-f603-45b5-9208-545be4dcbf36.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Llanowar Reborn",
+        "cardSet": "lcc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/2/8/284e165e-9ab6-47fc-9685-0fb03de237df.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Skarrg, the Rage Pits",
+        "cardSet": "pca",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/3/3/3340d094-fe13-4087-abba-27e8c9a7f3c7.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Glimmerpost",
+        "cardSet": "som",
+        "cardType": "Land \u2014 Locus",
+        "cardFront": "https://cards.scryfall.io/normal/front/8/b/8b63efb6-249c-4f57-9af1-baffe938520c.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Detection Tower",
+        "cardSet": "m19",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/2/02f99756-d334-4dba-a375-ba3d91ecae62.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Demolition Field",
+        "cardSet": "fdn",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/c/0c7e51b6-4898-4632-b39c-3ce438caa882.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Hadana's Climb // Winged Temple of Orazca",
+        "cardSet": "rix",
+        "cardType": "Legendary Enchantment // Legendary Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/8/e/8e7554bc-8583-4059-8895-c3845bc27ae3.jpg",
+        "cardBack": "https://cards.scryfall.io/normal/back/8/e/8e7554bc-8583-4059-8895-c3845bc27ae3.jpg"
+    },
+    {
+        "cardName": "The Gold Saucer",
+        "cardSet": "fin",
+        "cardType": "Land \u2014 Town",
+        "cardFront": "https://cards.scryfall.io/normal/front/5/3/5363c881-443d-43df-afd8-f81e1a1741a2.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Jwari Disruption // Jwari Ruins",
+        "cardSet": "znr",
+        "cardType": "Instant // Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/3/0/301750a7-d1fd-435e-bfa8-9d2fb22ad627.jpg",
+        "cardBack": "https://cards.scryfall.io/normal/back/3/0/301750a7-d1fd-435e-bfa8-9d2fb22ad627.jpg"
+    },
+    {
+        "cardName": "Forsaken Sanctuary",
+        "cardSet": "c18",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/f/3/f3e0b983-62e7-43fb-b5d5-402ea60a64d7.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Maestros Theater",
+        "cardSet": "eoc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/4/d4087ba6-8227-4ec3-a989-0833ad6c8788.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Fountainport",
+        "cardSet": "blb",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/6/5/658cfcb7-81b7-48c6-9dd2-1663d06108cf.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Razorverge Thicket",
+        "cardSet": "one",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/6/5/65b26f68-3a25-4c4e-bc76-a199ab479a50.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Rootbound Crag",
+        "cardSet": "tdc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/1/a/1a88057c-0997-4b86-bcd5-b1127e4f1f28.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Cavernous Maw",
+        "cardSet": "lci",
+        "cardType": "Land \u2014 Cave",
+        "cardFront": "https://cards.scryfall.io/normal/front/2/a/2a51ebf6-a465-42e2-82b7-d2cb928ca632.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Abandoned Air Temple",
+        "cardSet": "tla",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/9/c/9c0433f9-8f1e-4a19-a83f-a41925f1b1a9.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Volatile Fault",
+        "cardSet": "lci",
+        "cardType": "Land \u2014 Cave",
+        "cardFront": "https://cards.scryfall.io/normal/front/9/3/9385abf3-b067-4586-bf3d-175526cf8f0a.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Volatile Fjord",
+        "cardSet": "khm",
+        "cardType": "Snow Land \u2014 Island Mountain",
+        "cardFront": "https://cards.scryfall.io/normal/front/f/2/f2392fbb-d9c4-4688-b99c-4e7614c60c12.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Gargoyle Castle",
+        "cardSet": "c19",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/9/8/9834b4e1-7e9f-4f93-a2aa-13a52e8a11fc.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Surtland Frostpyre",
+        "cardSet": "khm",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/b/0b02149a-4a8f-4be9-9944-3d216248b549.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Overgrown Tomb",
+        "cardSet": "ecl",
+        "cardType": "Land \u2014 Swamp Forest",
+        "cardFront": "https://cards.scryfall.io/normal/front/4/5/45b92924-baa1-4c9b-9932-9a5eda8f3446.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Blazemire Verge",
+        "cardSet": "dsk",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/1/d151c8e2-d715-470d-868a-f45191db9fa0.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Transguild Promenade",
+        "cardSet": "cmr",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/a/0/a0baaa39-7fce-4feb-9118-b1d6bc24f548.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Rimewood Falls",
+        "cardSet": "khm",
+        "cardType": "Snow Land \u2014 Forest Island",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/a/da1db084-f235-4e26-8867-5f0835a0d283.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "University Campus",
+        "cardSet": "spm",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/2/7/2752f21c-f535-4772-a8b3-e97e1339e9c9.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Mount Doom",
+        "cardSet": "ltr",
+        "cardType": "Legendary Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/b/5/b5bc71a1-2344-4bc6-aa60-658cec19d0d6.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Thornglint Bridge",
+        "cardSet": "mh2",
+        "cardType": "Artifact Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/9/d/9d483643-6a11-47f7-a0aa-190e0179525f.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "The Shire",
+        "cardSet": "ltr",
+        "cardType": "Legendary Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/5/d5178a1b-588b-4414-a370-ac6eed51187a.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Shivan Oasis",
+        "cardSet": "dde",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/6/d/6d11de19-fb40-4dc6-ad61-3b7e95163c0b.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Nivix, Aerie of the Firemind",
+        "cardSet": "ddj",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/a/0/a025a42d-cbcc-4bd2-9331-5c7dc677da20.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Plaza of Heroes",
+        "cardSet": "dmu",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/a/2/a2cfcf67-f83c-43af-9e2d-5513fcdde835.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Bristling Backwoods",
+        "cardSet": "otj",
+        "cardType": "Land \u2014 Desert",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/6/d61dfeb7-7f6b-4601-8396-2cbb98165489.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Ghitu Encampment",
+        "cardSet": "ddn",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/b/6/b6af3085-a24c-4a76-b4c0-a27a50993f1c.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Ally Encampment",
+        "cardSet": "bfz",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/b/c/bcb7124c-ba69-4da8-ad81-58f00fd0181d.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Festering Gulch",
+        "cardSet": "otj",
+        "cardType": "Land \u2014 Desert",
+        "cardFront": "https://cards.scryfall.io/normal/front/4/a/4ad841eb-da0d-43d4-8b60-efe30922990b.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Bridgeworks Battle // Tanglespan Bridgeworks",
+        "cardSet": "mh3",
+        "cardType": "Sorcery // Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/e/b/ebef3db0-2b58-4581-a79c-fbca9a059e63.jpg",
+        "cardBack": "https://cards.scryfall.io/normal/back/e/b/ebef3db0-2b58-4581-a79c-fbca9a059e63.jpg"
+    },
+    {
+        "cardName": "Tendo Ice Bridge",
+        "cardSet": "bok",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/2/d246f521-b9a0-4b4f-b38c-0e4eb4066212.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Seachrome Coast",
+        "cardSet": "one",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/9/e/9ed7441f-f624-49c8-8611-d9bba0e441ac.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Elegant Parlor",
+        "cardSet": "mkm",
+        "cardType": "Land \u2014 Mountain Plains",
+        "cardFront": "https://cards.scryfall.io/normal/front/7/2/72c6d541-e2cb-4d6e-acac-90a8f53b7006.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Springjack Pasture",
+        "cardSet": "c13",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/3/035438b1-f794-41e5-9e2b-bc5136766cd5.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Labyrinth of Skophos",
+        "cardSet": "mkc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/3/8/388169df-4cce-452d-9215-e3f814ff4fdf.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Deserted Temple",
+        "cardSet": "mh3",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/f/d/fd51f8f0-779b-40bb-b65c-5907f816676e.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Tranquil Thicket",
+        "cardSet": "dsc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/7/a/7aed7d9d-d796-493e-98fd-c5b1a26621ed.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Karn's Bastion",
+        "cardSet": "eoc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/2/2/22017ec2-3552-4865-af76-dba042b141f5.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Copperline Gorge",
+        "cardSet": "one",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/7/8/78b0f36b-7d8c-4e77-adc2-a4dad93a81d5.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "The Grey Havens",
+        "cardSet": "ltr",
+        "cardType": "Legendary Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/d/dd698f10-b0fc-42fc-84ec-f5a0d96bfa1d.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Rix Maadi, Dungeon Palace",
+        "cardSet": "c19",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/f/8/f8429762-e756-43e0-81b4-9d0a34270040.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Hidden Volcano",
+        "cardSet": "lci",
+        "cardType": "Land \u2014 Cave",
+        "cardFront": "https://cards.scryfall.io/normal/front/9/f/9fa06aed-52c1-48f1-9906-362db12a3cf7.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Sunbillow Verge",
+        "cardSet": "dft",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/9/4/94ed132f-b818-4dbf-9b4a-e5acb067e0a4.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Darkslick Shores",
+        "cardSet": "otc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/c/4/c49305d1-ac95-43ea-b02d-c3c7205bcda6.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Savage Lands",
+        "cardSet": "cmm",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/8/5/8502d1e6-86f1-40d8-8d3b-20d47e57bccb.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Svogthos, the Restless Tomb",
+        "cardSet": "cm2",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/f/f/ffe08b0f-bb53-40b9-8057-10b60070459b.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Soaring Seacliff",
+        "cardSet": "c20",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/6/5/651a1a4f-bdaa-44d6-ac45-050894788063.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Academy Ruins",
+        "cardSet": "2xm",
+        "cardType": "Legendary Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/a/9/a95b7645-154f-4904-bf71-db7eb24d4df2.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Tournament Grounds",
+        "cardSet": "eld",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/c/d/cd438d51-a778-4b38-8b4b-a6a9cd9b4b22.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Rustvale Bridge",
+        "cardSet": "eoc",
+        "cardType": "Artifact Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/a/da54e458-1d4f-45f0-a225-99eb9c4049fb.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Mountain",
+        "cardSet": "tla",
+        "cardType": "Basic Land \u2014 Mountain",
+        "cardFront": "https://cards.scryfall.io/normal/front/c/4/c44f81ca-f72f-445c-8901-3a894a2a47f9.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Mikokoro, Center of the Sea",
+        "cardSet": "dmc",
+        "cardType": "Legendary Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/8/d80eb098-5433-4b1e-aad5-0fd31bf598dd.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Tranquil Expanse",
+        "cardSet": "c18",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/1/2/123cd67f-7226-4e69-8637-382380fb213e.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Sunlit Marsh",
+        "cardSet": "dmu",
+        "cardType": "Land \u2014 Plains Swamp",
+        "cardFront": "https://cards.scryfall.io/normal/front/f/0/f0588fbf-3c05-452a-b3f7-67604c1f921d.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Gateway Plaza",
+        "cardSet": "war",
+        "cardType": "Land \u2014 Gate",
+        "cardFront": "https://cards.scryfall.io/normal/front/8/1/81d69cf2-8643-4926-857e-febbd54d870f.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Profane Procession // Tomb of the Dusk Rose",
+        "cardSet": "rix",
+        "cardType": "Legendary Enchantment // Legendary Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/1/d/1d94ff37-f04e-48ee-8253-d62ab07f0632.jpg",
+        "cardBack": "https://cards.scryfall.io/normal/back/1/d/1d94ff37-f04e-48ee-8253-d62ab07f0632.jpg"
+    },
+    {
+        "cardName": "Rocky Roads",
+        "cardSet": "dft",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/6/f/6f0d4e8a-aab5-458e-bc0e-2b6b0054646a.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Gods' Eye, Gate to the Reikai",
+        "cardSet": "bok",
+        "cardType": "Legendary Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/b/d/bdc33a21-d196-4c17-a296-87ff08e7ef69.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Malakir Rebirth // Malakir Mire",
+        "cardSet": "znr",
+        "cardType": "Instant // Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.jpg",
+        "cardBack": "https://cards.scryfall.io/normal/back/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.jpg"
+    },
+    {
+        "cardName": "Memorial to Unity",
+        "cardSet": "dom",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/9/9/994d903b-0d54-4af4-898f-213e716e9ed4.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Evolving Wilds",
+        "cardSet": "eoc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/3/1/31181bd2-3a1f-4cb9-ba30-637ac479133a.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Tarrian's Journal // The Tomb of Aclazotz",
+        "cardSet": "lci",
+        "cardType": "Legendary Artifact // Legendary Land \u2014 Cave",
+        "cardFront": "https://cards.scryfall.io/normal/front/9/9/99255a66-b868-45fc-a2a9-0c89bd851b69.jpg",
+        "cardBack": "https://cards.scryfall.io/normal/back/9/9/99255a66-b868-45fc-a2a9-0c89bd851b69.jpg"
+    },
+    {
+        "cardName": "Tocasia's Dig Site",
+        "cardSet": "mkc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/b/b/bbb5d40b-f0e1-4e98-b4d3-1ee2cfa5b579.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Dread Statuary",
+        "cardSet": "cn2",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/6/e/6e54bace-7484-484e-987e-8d3a9a430ab9.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Needleverge Pathway // Pillarverge Pathway",
+        "cardSet": "znr",
+        "cardType": "Land // Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/6/5/6559047e-6ede-4815-a3a0-389062094f9d.jpg",
+        "cardBack": "https://cards.scryfall.io/normal/back/6/5/6559047e-6ede-4815-a3a0-389062094f9d.jpg"
+    },
+    {
+        "cardName": "Sunhome, Fortress of the Legion",
+        "cardSet": "otc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/4/e/4ebb97da-e4d5-41ba-9a70-2a1de91f513c.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Orzhov Basilica",
+        "cardSet": "dsc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/9/c/9c7c08fc-b6ee-498c-8ab6-fd6be27c9d97.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Desolate Lighthouse",
+        "cardSet": "lcc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/c/1/c155cc10-09f4-424b-b366-142adf9c1712.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Mech Hangar",
+        "cardSet": "neo",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/c/0/c093984d-38cd-4b49-b179-1e289ab442d1.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Takenuma, Abandoned Mire",
+        "cardSet": "neo",
+        "cardType": "Legendary Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/4/9/499037cc-a577-41cb-8ca2-5e117945634f.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Gongaga, Reactor Town",
+        "cardSet": "fin",
+        "cardType": "Land \u2014 Town",
+        "cardFront": "https://cards.scryfall.io/normal/front/7/b/7beccfa6-3e4b-4460-954e-870cb39e462d.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Snow-Covered Plains",
+        "cardSet": "khm",
+        "cardType": "Basic Snow Land \u2014 Plains",
+        "cardFront": "https://cards.scryfall.io/normal/front/a/f/afd2730f-878e-47ee-ad2a-73f8fa4e0794.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Haven of the Spirit Dragon",
+        "cardSet": "tdc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/0/d0c552da-874e-49eb-b221-47220b8b7786.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Guildmages' Forum",
+        "cardSet": "grn",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/c/b/cba12bda-d460-4206-8469-4357c967b9b8.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Azorius Guildgate",
+        "cardSet": "fdn",
+        "cardType": "Land \u2014 Gate",
+        "cardFront": "https://cards.scryfall.io/normal/front/f/9/f98a7264-0a83-42c8-a94d-05ad4c234242.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Legion Leadership // Legion Stronghold",
+        "cardSet": "mh3",
+        "cardType": "Instant // Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/7/6/7676abd9-0a3d-4721-b17b-778d2e3c2e25.jpg",
+        "cardBack": "https://cards.scryfall.io/normal/back/7/6/7676abd9-0a3d-4721-b17b-778d2e3c2e25.jpg"
+    },
+    {
+        "cardName": "Foul Orchard",
+        "cardSet": "khc",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/1/e/1e1bad7b-e102-4dff-b79a-fd755c2b6d49.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Frostwalk Bastion",
+        "cardSet": "mh1",
+        "cardType": "Snow Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/b/f/bfb5d83f-2b7c-4c22-ac37-938e7cd1654a.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Mudflat Village",
+        "cardSet": "blb",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/5/3/53ec4ad3-9cf0-4f1b-a9db-d63feee594ab.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Brass's Tunnel-Grinder // Tecutlan, the Searing Rift",
+        "cardSet": "lci",
+        "cardType": "Legendary Artifact // Legendary Land \u2014 Cave",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/6/d61d8895-7f2e-4c77-951f-4f1a49e96f57.jpg",
+        "cardBack": "https://cards.scryfall.io/normal/back/d/6/d61d8895-7f2e-4c77-951f-4f1a49e96f57.jpg"
+    },
+    {
+        "cardName": "Ifnir Deadlands",
+        "cardSet": "hou",
+        "cardType": "Land \u2014 Desert",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/b/0b88728b-9b18-40c6-b634-f87f8da83665.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Akoum Warrior // Akoum Teeth",
+        "cardSet": "znr",
+        "cardType": "Creature \u2014 Minotaur Warrior // Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/8/d8ed0335-daa6-4dbe-a94d-4d56c8cfd093.jpg",
+        "cardBack": "https://cards.scryfall.io/normal/back/d/8/d8ed0335-daa6-4dbe-a94d-4d56c8cfd093.jpg"
+    },
+    {
+        "cardName": "Silundi Vision // Silundi Isle",
+        "cardSet": "znr",
+        "cardType": "Instant // Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/1/1/11568cdf-6148-494c-8b98-f5ca5797d775.jpg",
+        "cardBack": "https://cards.scryfall.io/normal/back/1/1/11568cdf-6148-494c-8b98-f5ca5797d775.jpg"
+    },
+    {
+        "cardName": "Thespian's Stage",
+        "cardSet": "2xm",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/2/6/269a926d-7788-4668-8bd8-7572dbf5f5eb.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Beyeen Veil // Beyeen Coast",
+        "cardSet": "znr",
+        "cardType": "Instant // Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/5/f/5f411f08-45dd-4d73-8894-daf51c175150.jpg",
+        "cardBack": "https://cards.scryfall.io/normal/back/5/f/5f411f08-45dd-4d73-8894-daf51c175150.jpg"
+    },
+    {
+        "cardName": "Wind-Scarred Crag",
+        "cardSet": "tdm",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/4/9/4912e4d0-b16a-4aa6-a583-3430d26bd591.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Haunted Mire",
+        "cardSet": "tdc",
+        "cardType": "Land \u2014 Swamp Forest",
+        "cardFront": "https://cards.scryfall.io/normal/front/4/0/402ff237-6581-47d5-a3f5-a7bdae505b41.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Tarnation Vista",
+        "cardSet": "big",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/9/6/962552a1-ec34-49e2-a23d-85dfb405d5e0.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "The Hunter Maze",
+        "cardSet": "one",
+        "cardType": "Land \u2014 Sphere",
+        "cardFront": "https://cards.scryfall.io/normal/front/6/3/6389c242-2139-4f12-af30-2b080a1c5e83.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Pelakka Predation // Pelakka Caverns",
+        "cardSet": "znr",
+        "cardType": "Sorcery // Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/e/6/e63f8b20-f45b-4293-9aac-cdc021939be6.jpg",
+        "cardBack": "https://cards.scryfall.io/normal/back/e/6/e63f8b20-f45b-4293-9aac-cdc021939be6.jpg"
+    },
+    {
+        "cardName": "Crossroads Village",
+        "cardSet": "fin",
+        "cardType": "Land \u2014 Town",
+        "cardFront": "https://cards.scryfall.io/normal/front/6/4/64db46d4-f91f-49cc-971c-b8e19f0c4ea9.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Island",
+        "cardSet": "tla",
+        "cardType": "Basic Land \u2014 Island",
+        "cardFront": "https://cards.scryfall.io/normal/front/a/2/a2e22347-f0cb-4cfd-88a3-4f46a16e4946.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Khalni Garden",
+        "cardSet": "c18",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/3/e/3e0f6ae6-b303-405a-8efa-91de9692768e.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Cryptic Caves",
+        "cardSet": "fdn",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/a/7/a7976098-b560-458a-ad3c-18f7873add21.jpg",
         "cardBack": ""
     }
 ]

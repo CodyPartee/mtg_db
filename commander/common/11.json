@@ -1,702 +1,1402 @@
 [
     {
-        "cardName": "Discerning Taste",
-        "cardSet": "mh2",
+        "cardName": "Mindstab",
+        "cardSet": "tsr",
         "cardType": "Sorcery",
-        "cardFront": "https://cards.scryfall.io/normal/front/9/f/9f395828-9d6d-4ffa-be92-b681350031b0.jpg",
+        "cardFront": "https://cards.scryfall.io/normal/front/5/4/542f97fa-6295-4c87-86a8-7ff2bc8b5e81.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Orchard Elemental",
-        "cardSet": "cn2",
-        "cardType": "Creature \u2014 Elemental",
-        "cardFront": "https://cards.scryfall.io/normal/front/a/9/a98ce3fa-d607-4975-89b5-6c7ed9bd1185.jpg",
+        "cardName": "Woodland Changeling",
+        "cardSet": "lrw",
+        "cardType": "Creature \u2014 Shapeshifter",
+        "cardFront": "https://cards.scryfall.io/normal/front/a/a/aa41edf8-88a1-46dd-8315-b0afe7e14b7e.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Flowstone Embrace",
-        "cardSet": "fut",
-        "cardType": "Enchantment \u2014 Aura",
-        "cardFront": "https://cards.scryfall.io/normal/front/f/3/f3969cc7-92b9-45cd-9a4f-d94c2178a04d.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Cactarantula",
-        "cardSet": "otj",
-        "cardType": "Creature \u2014 Plant Spider",
-        "cardFront": "https://cards.scryfall.io/normal/front/2/e/2e0e27f9-dc2c-4366-b810-3e8d0bdff8c3.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Swordsworn Cavalier",
-        "cardSet": "mom",
-        "cardType": "Creature \u2014 Human Knight",
-        "cardFront": "https://cards.scryfall.io/normal/front/a/a/aa0461fc-4298-45b9-90a0-939093cf2544.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Viashino Racketeer",
-        "cardSet": "rtr",
-        "cardType": "Creature \u2014 Lizard Rogue",
-        "cardFront": "https://cards.scryfall.io/normal/front/b/f/bf4c2d22-9c36-42cc-854d-f96410bb5cf1.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Waterfront District",
-        "cardSet": "snc",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/d/e/debf7aac-4d31-49b4-955b-79036258df69.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Crypt Ripper",
-        "cardSet": "zen",
-        "cardType": "Creature \u2014 Shade",
-        "cardFront": "https://cards.scryfall.io/normal/front/9/9/9920e91d-58c1-4c1a-a177-43423db96842.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Scholar of Athreos",
-        "cardSet": "ths",
-        "cardType": "Creature \u2014 Human Cleric",
-        "cardFront": "https://cards.scryfall.io/normal/front/9/5/95a36e06-39f3-47d0-b6a9-43728afceb4a.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Unexplained Disappearance",
-        "cardSet": "grn",
+        "cardName": "Test of Faith",
+        "cardSet": "mma",
         "cardType": "Instant",
-        "cardFront": "https://cards.scryfall.io/normal/front/9/c/9c99b239-50d2-4393-80ec-94dbfaa6ae70.jpg",
+        "cardFront": "https://cards.scryfall.io/normal/front/6/7/67ba07ca-7be4-400e-a104-f7bbd527b6b4.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Gnarlroot Pallbearer",
-        "cardSet": "bro",
-        "cardType": "Creature \u2014 Treefolk Druid",
-        "cardFront": "https://cards.scryfall.io/normal/front/b/7/b7382154-ac8f-40ca-94e4-2f0533c0cf20.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Gravity Negator",
-        "cardSet": "ogw",
-        "cardType": "Creature \u2014 Eldrazi Drone",
-        "cardFront": "https://cards.scryfall.io/normal/front/8/5/85f9b63e-6ecc-4d85-9724-87b8176ae6a6.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Basal Sliver",
-        "cardSet": "tsp",
-        "cardType": "Creature \u2014 Sliver",
-        "cardFront": "https://cards.scryfall.io/normal/front/4/5/4564e9df-bfa3-48e5-a12e-f7e96a504cb1.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Alarum",
-        "cardSet": "mir",
-        "cardType": "Instant",
-        "cardFront": "https://cards.scryfall.io/normal/front/1/5/155f2aa6-6c47-4a06-b0ef-2d9205cd133e.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Foundry Inspector",
-        "cardSet": "cmm",
-        "cardType": "Artifact Creature \u2014 Construct",
-        "cardFront": "https://cards.scryfall.io/normal/front/1/6/16debeb1-fb2b-4172-b6da-726416d4fb38.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Kyoshi Warrior Guard",
-        "cardSet": "tle",
-        "cardType": "Creature \u2014 Human Warrior Ally",
-        "cardFront": "https://cards.scryfall.io/normal/front/7/a/7a2acb28-c0e2-492b-a227-ef49e905e0fb.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Cage of Hands",
-        "cardSet": "cmr",
+        "cardName": "Imprisoned in the Moon",
+        "cardSet": "inr",
         "cardType": "Enchantment \u2014 Aura",
-        "cardFront": "https://cards.scryfall.io/normal/front/6/5/655aefd8-8b0b-4c65-9973-376bbf05375b.jpg",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/d/0d150547-09f5-45ce-a825-89944b066bd4.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Desert of the Glorified",
-        "cardSet": "hou",
-        "cardType": "Land \u2014 Desert",
-        "cardFront": "https://cards.scryfall.io/normal/front/0/4/04a19aea-209d-4354-8c59-d08244185eb8.jpg",
+        "cardName": "Sporeback Troll",
+        "cardSet": "dis",
+        "cardType": "Creature \u2014 Troll Mutant",
+        "cardFront": "https://cards.scryfall.io/normal/front/1/8/18bdca24-3beb-4d0d-b3bc-b98c23316fe7.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Lyev Skyknight",
-        "cardSet": "2x2",
-        "cardType": "Creature \u2014 Human Knight",
-        "cardFront": "https://cards.scryfall.io/normal/front/2/f/2f3e1033-428a-4263-8813-fdb8bb4b6425.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Disowned Ancestor",
-        "cardSet": "ktk",
-        "cardType": "Creature \u2014 Spirit Warrior",
-        "cardFront": "https://cards.scryfall.io/normal/front/2/d/2d8bd496-632d-4d6d-a529-f35cf3222de7.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Jack-o'-Lantern",
-        "cardSet": "mid",
-        "cardType": "Artifact",
-        "cardFront": "https://cards.scryfall.io/normal/front/2/1/21b589ab-45a0-480a-a891-581c34f8a9bf.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "News Helicopter",
-        "cardSet": "spm",
-        "cardType": "Artifact Creature \u2014 Construct",
-        "cardFront": "https://cards.scryfall.io/normal/front/1/5/15717af0-30cd-4417-947a-c27cca06d93a.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Clarion Cathars",
-        "cardSet": "mid",
-        "cardType": "Creature \u2014 Human Knight",
-        "cardFront": "https://cards.scryfall.io/normal/front/8/9/89f8ea28-7de1-4908-8e2d-b1aeff651015.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Foggy Swamp Hunters",
-        "cardSet": "tla",
-        "cardType": "Creature \u2014 Human Ranger Ally",
-        "cardFront": "https://cards.scryfall.io/normal/front/3/f/3f6e5869-ca25-4b98-a844-8a498cb40aab.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Captain of Umbar",
-        "cardSet": "ltr",
-        "cardType": "Creature \u2014 Human Pirate",
-        "cardFront": "https://cards.scryfall.io/normal/front/c/2/c222577d-a3c7-41d9-b11b-62065bdb98ef.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Vector Asp",
-        "cardSet": "som",
-        "cardType": "Artifact Creature \u2014 Phyrexian Snake",
-        "cardFront": "https://cards.scryfall.io/normal/front/7/f/7ffe86e1-ad47-4ccb-aa55-119dc681d370.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Chaplain's Blessing",
-        "cardSet": "soi",
+        "cardName": "Foreboding Fruit",
+        "cardSet": "eld",
         "cardType": "Sorcery",
-        "cardFront": "https://cards.scryfall.io/normal/front/f/7/f70ea481-1751-4097-af41-2d13fe79e788.jpg",
+        "cardFront": "https://cards.scryfall.io/normal/front/c/5/c5f79ec4-3722-4fda-824b-e80dc7608d01.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Mesmerizing Dose",
-        "cardSet": "one",
-        "cardType": "Enchantment \u2014 Aura",
-        "cardFront": "https://cards.scryfall.io/normal/front/d/a/dac28e27-78aa-48b1-96fa-edca1fbcfb77.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Canopy Claws",
-        "cardSet": "jud",
-        "cardType": "Instant",
-        "cardFront": "https://cards.scryfall.io/normal/front/c/4/c4530da2-fd04-40d9-ad69-5c2847921509.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Vantress Paladin",
-        "cardSet": "eld",
-        "cardType": "Creature \u2014 Human Knight",
-        "cardFront": "https://cards.scryfall.io/normal/front/5/2/52dd633f-9a07-47df-adb1-36013fc2f43a.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "So Tiny",
-        "cardSet": "eld",
-        "cardType": "Enchantment \u2014 Aura",
-        "cardFront": "https://cards.scryfall.io/normal/front/4/2/421650f2-1b34-4a36-9675-9424997c9d0b.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Martyr of Frost",
-        "cardSet": "jvc",
+        "cardName": "Midvast Protector",
+        "cardSet": "avr",
         "cardType": "Creature \u2014 Human Wizard",
-        "cardFront": "https://cards.scryfall.io/normal/front/0/e/0e7c25c9-1634-4675-b975-e9d477d1f8e1.jpg",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/4/d4f6214f-90cb-4575-b221-3c8d0ed65ffe.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Salvage Slasher",
-        "cardSet": "con",
-        "cardType": "Artifact Creature \u2014 Human Rogue",
-        "cardFront": "https://cards.scryfall.io/normal/front/0/9/095b0fd1-7445-4dba-bb90-ddd5f5ee8573.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Minotaur Tactician",
-        "cardSet": "apc",
-        "cardType": "Creature \u2014 Minotaur",
-        "cardFront": "https://cards.scryfall.io/normal/front/0/9/097decb6-03bd-4a84-ab9a-75becf85cae8.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Krark-Clan Shaman",
-        "cardSet": "mrd",
-        "cardType": "Creature \u2014 Goblin Shaman",
-        "cardFront": "https://cards.scryfall.io/normal/front/9/7/975f9ea8-af2c-456f-acd0-ffa9ea0d98c1.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Reject",
-        "cardSet": "stx",
-        "cardType": "Instant",
-        "cardFront": "https://cards.scryfall.io/normal/front/d/7/d77f0731-fb40-4dc2-8530-afcb5ce1f27f.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Defensive Stance",
-        "cardSet": "nph",
+        "cardName": "Insolence",
+        "cardSet": "pls",
         "cardType": "Enchantment \u2014 Aura",
-        "cardFront": "https://cards.scryfall.io/normal/front/d/0/d0670653-d4fe-4fac-b769-d19ca4698c97.jpg",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/8/d8009a37-f966-4a71-9a2a-469127758dc6.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Sokka's Sword Training",
+        "cardName": "Thornplate Intimidator",
+        "cardSet": "blb",
+        "cardType": "Creature \u2014 Rat Rogue",
+        "cardFront": "https://cards.scryfall.io/normal/front/4/2/42f66c4a-feaa-4ba6-aa56-955b43329a9e.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Geomancer's Gambit",
+        "cardSet": "mh1",
+        "cardType": "Sorcery",
+        "cardFront": "https://cards.scryfall.io/normal/front/2/3/23b67031-76b8-4511-a6dc-433d9450496e.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Disorient",
+        "cardSet": "m10",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/1/7/17965a3c-92b4-4f01-b076-e40c567eed33.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Blood Bairn",
+        "cardSet": "cma",
+        "cardType": "Creature \u2014 Vampire",
+        "cardFront": "https://cards.scryfall.io/normal/front/4/3/433821dd-9a38-4ace-b9d2-cd081784e957.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Glidedive Duo",
+        "cardSet": "blb",
+        "cardType": "Creature \u2014 Bat Lizard",
+        "cardFront": "https://cards.scryfall.io/normal/front/4/8/4831e7ae-54e3-4bd9-b5af-52dc29f81715.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Vampire Spawn",
+        "cardSet": "afr",
+        "cardType": "Creature \u2014 Vampire",
+        "cardFront": "https://cards.scryfall.io/normal/front/b/8/b8975c72-b2ec-4c5f-86a4-4e1e3bb41c15.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Duress",
+        "cardSet": "fdn",
+        "cardType": "Sorcery",
+        "cardFront": "https://cards.scryfall.io/normal/front/3/4/34c3a894-ee75-4db9-a69f-711bb3cc150a.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Bartered Cow",
+        "cardSet": "eld",
+        "cardType": "Creature \u2014 Ox",
+        "cardFront": "https://cards.scryfall.io/normal/front/1/d/1de43c67-7dfe-4282-b433-4e394366d2e9.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Freedom Fighter Recruit",
         "cardSet": "tle",
-        "cardType": "Instant \u2014 Lesson",
-        "cardFront": "https://cards.scryfall.io/normal/front/3/4/3489930a-208d-4bb2-b200-58a0dd4f6e81.jpg",
+        "cardType": "Creature \u2014 Human Rebel Ally",
+        "cardFront": "https://cards.scryfall.io/normal/front/a/2/a2d75e36-0824-48db-86ff-ca163be27e2b.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Cliffgate",
-        "cardSet": "clb",
-        "cardType": "Land \u2014 Gate",
-        "cardFront": "https://cards.scryfall.io/normal/front/5/5/557470dc-c594-4b26-81b9-356bedb0c215.jpg",
+        "cardName": "Urza's Mine",
+        "cardSet": "cmm",
+        "cardType": "Land \u2014 Urza's Mine",
+        "cardFront": "https://cards.scryfall.io/normal/front/3/9/396bbb7d-ae61-4d8d-b931-9ed2f712832e.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Beastrider Vanguard",
-        "cardSet": "dft",
-        "cardType": "Creature \u2014 Human Knight",
-        "cardFront": "https://cards.scryfall.io/normal/front/f/4/f4b99a61-49f1-46a2-9eb7-b6c88c236215.jpg",
+        "cardName": "Rubbleback Rhino",
+        "cardSet": "rtr",
+        "cardType": "Creature \u2014 Rhino",
+        "cardFront": "https://cards.scryfall.io/normal/front/5/1/51daaf9b-d8a8-49a6-94e1-0c8be2c6188b.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Tidehollow Strix",
-        "cardSet": "c13",
-        "cardType": "Artifact Creature \u2014 Bird",
-        "cardFront": "https://cards.scryfall.io/normal/front/1/7/17be4a4e-5f11-4c3e-b447-9feb5ccbc448.jpg",
+        "cardName": "Mistvault Bridge",
+        "cardSet": "mh2",
+        "cardType": "Artifact Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/9/f/9f36a6e2-3e51-4a30-a225-10cfe6650b9d.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Drowner Initiate",
-        "cardSet": "shm",
-        "cardType": "Creature \u2014 Merfolk Wizard",
-        "cardFront": "https://cards.scryfall.io/normal/front/2/8/28accc5f-63a5-47d0-b0e6-747aa0aa43e5.jpg",
+        "cardName": "Thought Shucker",
+        "cardSet": "blb",
+        "cardType": "Creature \u2014 Rat Rogue",
+        "cardFront": "https://cards.scryfall.io/normal/front/4/4/44b0d83b-cc41-4f82-892c-ef6d3293228a.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Devouring Rage",
+        "cardName": "Warren Elder",
+        "cardSet": "blb",
+        "cardType": "Creature \u2014 Rabbit Cleric",
+        "cardFront": "https://cards.scryfall.io/normal/front/4/b/4bf20069-5a20-4f95-976b-6af2b69f3ad0.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Vraska's Fall",
+        "cardSet": "one",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/1/0173b7b4-2832-4943-ba45-8ba498d7a056.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Garenbrig Paladin",
+        "cardSet": "eld",
+        "cardType": "Creature \u2014 Giant Knight",
+        "cardFront": "https://cards.scryfall.io/normal/front/8/4/8445020a-6fab-47dd-9e57-886c28f68b3f.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Cartouche of Ambition",
+        "cardSet": "akh",
+        "cardType": "Enchantment \u2014 Aura Cartouche",
+        "cardFront": "https://cards.scryfall.io/normal/front/e/6/e68b96b1-b75e-4ee1-a6d7-6545a34fef9b.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Hopeful Vigil",
+        "cardSet": "woe",
+        "cardType": "Enchantment",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/3/d382fd32-b1f5-4ec7-9d42-fc2915ed3bc9.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Master of Diversion",
+        "cardSet": "m14",
+        "cardType": "Creature \u2014 Human Scout",
+        "cardFront": "https://cards.scryfall.io/normal/front/2/b/2bec89b3-640e-4093-a6e9-5639610769b9.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Negate",
+        "cardSet": "fdn",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/f/f/ff3b0dba-0207-4249-bdab-e807c76ce39e.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Witness the End",
+        "cardSet": "ogw",
+        "cardType": "Sorcery",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/c/0c06d8ec-55ab-4be9-a470-77c79d643d1f.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Mana Chains",
+        "cardSet": "wth",
+        "cardType": "Enchantment \u2014 Aura",
+        "cardFront": "https://cards.scryfall.io/normal/front/7/7/77802038-0d86-4911-97ed-e6bd2ed55e23.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Rising Populace",
+        "cardSet": "rvr",
+        "cardType": "Creature \u2014 Human",
+        "cardFront": "https://cards.scryfall.io/normal/front/2/2/2213e75d-0068-4a0a-979a-c6055c3525a1.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Pitiless Vizier",
+        "cardSet": "akh",
+        "cardType": "Creature \u2014 Minotaur Cleric",
+        "cardFront": "https://cards.scryfall.io/normal/front/2/2/22eb0615-d1b2-4128-bad5-bcff83672f6b.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Raging Bull",
+        "cardSet": "leg",
+        "cardType": "Creature \u2014 Ox",
+        "cardFront": "https://cards.scryfall.io/normal/front/e/c/ec10a51c-d2c3-4d14-9a71-9e59155bf980.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Bloodfire Expert",
+        "cardSet": "ktk",
+        "cardType": "Creature \u2014 Efreet Monk",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/7/0742564e-f7a7-4107-b9ed-63703ca4702c.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Confidence from Strength",
+        "cardSet": "gs1",
+        "cardType": "Sorcery",
+        "cardFront": "https://cards.scryfall.io/normal/front/9/8/98945e26-61e5-457d-ba8c-def924a7b1d1.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Apothecary Geist",
+        "cardSet": "inr",
+        "cardType": "Creature \u2014 Spirit",
+        "cardFront": "https://cards.scryfall.io/normal/front/a/7/a79df1a1-6d60-4e5f-b4d8-668155836bb6.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Hill Giant",
+        "cardSet": "10e",
+        "cardType": "Creature \u2014 Giant",
+        "cardFront": "https://cards.scryfall.io/normal/front/1/4/14c2be6a-9ca6-4d3a-8dd0-db4ea40799f8.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Wolf Strike",
+        "cardSet": "vow",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/2/02e9cd00-7ffd-44e1-aa0f-c94489ff4a0f.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Golgari Brownscale",
+        "cardSet": "uma",
+        "cardType": "Creature \u2014 Lizard",
+        "cardFront": "https://cards.scryfall.io/normal/front/e/4/e41f3323-f702-46a6-92db-33ec0afd75d2.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Dark Dabbling",
+        "cardSet": "uma",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/f/3/f320791b-a64f-4249-9a78-7b28cfe58743.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Court Street Denizen",
+        "cardSet": "cmr",
+        "cardType": "Creature \u2014 Human Soldier",
+        "cardFront": "https://cards.scryfall.io/normal/front/c/4/c45b1d32-5a3a-4ec3-af11-d0ba947de175.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Swab Goblin",
+        "cardSet": "fdn",
+        "cardType": "Creature \u2014 Goblin Pirate",
+        "cardFront": "https://cards.scryfall.io/normal/front/8/d/8db11970-74c2-463d-88bb-9f88aa079eaa.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Blade Juggler",
+        "cardSet": "clu",
+        "cardType": "Creature \u2014 Human Rogue",
+        "cardFront": "https://cards.scryfall.io/normal/front/4/2/42665f2d-0815-44d9-a5a9-c7ec4226bcf0.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Crushing Pain",
         "cardSet": "chk",
         "cardType": "Instant \u2014 Arcane",
-        "cardFront": "https://cards.scryfall.io/normal/front/6/0/608a6e1e-3e95-4ce4-aaf6-5f14c0456850.jpg",
+        "cardFront": "https://cards.scryfall.io/normal/front/c/5/c58b4374-1a50-4574-8493-f5535c1020e8.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Sunshot Militia",
-        "cardSet": "lci",
-        "cardType": "Creature \u2014 Human Soldier",
-        "cardFront": "https://cards.scryfall.io/normal/front/d/3/d3114f5c-21e9-43c3-abe3-3cf1da20916f.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Arcane Investigator",
-        "cardSet": "afr",
-        "cardType": "Creature \u2014 Elf Wizard",
-        "cardFront": "https://cards.scryfall.io/normal/front/d/c/dc457520-9947-4f65-bbe7-9b95bd2c23af.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Undead Minotaur",
-        "cardSet": "m14",
-        "cardType": "Creature \u2014 Zombie Minotaur",
-        "cardFront": "https://cards.scryfall.io/normal/front/5/e/5e5ae910-ee1d-4958-92d9-0b06872913c6.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Yoked Ox",
-        "cardSet": "m20",
-        "cardType": "Creature \u2014 Ox",
-        "cardFront": "https://cards.scryfall.io/normal/front/a/7/a73f186b-c897-4a98-bc25-8e4aa348d8c9.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Might of the Meek",
-        "cardSet": "blb",
-        "cardType": "Instant",
-        "cardFront": "https://cards.scryfall.io/normal/front/5/0/509bf254-8a2b-4dfa-9ae5-386321b35e8b.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Urborg Mindsucker",
-        "cardSet": "vis",
-        "cardType": "Creature \u2014 Horror",
-        "cardFront": "https://cards.scryfall.io/normal/front/7/8/78405864-fc83-47ab-9238-8e0464a700ec.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Willow Dryad",
-        "cardSet": "por",
-        "cardType": "Creature \u2014 Dryad",
-        "cardFront": "https://cards.scryfall.io/normal/front/1/d/1def835b-aabb-4a9d-8fb9-460452de0d79.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Granite Grip",
-        "cardSet": "7ed",
+        "cardName": "Exotic Curse",
+        "cardSet": "dde",
         "cardType": "Enchantment \u2014 Aura",
-        "cardFront": "https://cards.scryfall.io/normal/front/9/0/908c8414-5eff-4887-9007-43050058c2d0.jpg",
+        "cardFront": "https://cards.scryfall.io/normal/front/1/e/1eff81c4-c402-437d-aace-dfe875d9857d.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Botanical Plaza",
-        "cardSet": "snc",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/9/f/9f8a6f93-1fc8-4690-add4-538763277f8e.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Merfolk Raiders",
-        "cardSet": "mir",
-        "cardType": "Creature \u2014 Merfolk Soldier",
-        "cardFront": "https://cards.scryfall.io/normal/front/d/0/d0f34166-8946-4bcc-84af-3540c42ac7f7.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Blitz Automaton",
-        "cardSet": "bro",
-        "cardType": "Artifact Creature \u2014 Construct",
-        "cardFront": "https://cards.scryfall.io/normal/front/e/4/e4e5529a-848b-486c-97fb-1def35df7837.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Spell Snuff",
-        "cardSet": "mh1",
-        "cardType": "Instant",
-        "cardFront": "https://cards.scryfall.io/normal/front/e/f/efadce19-07f4-47af-abc0-a436bafcdd65.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Subterranean Scout",
-        "cardSet": "dmr",
-        "cardType": "Creature \u2014 Goblin Scout",
-        "cardFront": "https://cards.scryfall.io/normal/front/b/9/b9e6c26c-84f8-46dd-bb32-b3fc57e172c0.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Cooperation",
-        "cardSet": "ice",
-        "cardType": "Enchantment \u2014 Aura",
-        "cardFront": "https://cards.scryfall.io/normal/front/2/1/21a815ed-c8b4-4414-8b27-ea612e2977e2.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Mine Bearer",
-        "cardSet": "pcy",
-        "cardType": "Creature \u2014 Human Soldier",
-        "cardFront": "https://cards.scryfall.io/normal/front/a/8/a8151510-2445-4244-b851-ab332b908170.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Wishful Merfolk",
-        "cardSet": "jmp",
-        "cardType": "Creature \u2014 Merfolk",
-        "cardFront": "https://cards.scryfall.io/normal/front/a/6/a61a7809-4bef-48e9-afbc-e473eb7072e8.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Frenzied Rage",
-        "cardSet": "dom",
-        "cardType": "Enchantment \u2014 Aura",
-        "cardFront": "https://cards.scryfall.io/normal/front/f/9/f9ca9c16-5720-4531-88ea-48b48d189479.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Hoard Robber",
-        "cardSet": "afr",
-        "cardType": "Creature \u2014 Tiefling Rogue",
-        "cardFront": "https://cards.scryfall.io/normal/front/b/7/b723d9cd-05f5-4894-9f2b-52a434a3019c.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Exploding Borders",
-        "cardSet": "con",
+        "cardName": "Shackles of Treachery",
+        "cardSet": "khm",
         "cardType": "Sorcery",
-        "cardFront": "https://cards.scryfall.io/normal/front/f/2/f247aaaf-4d65-4dfc-bab2-3c1331762647.jpg",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/b/db743c6e-1385-468e-921a-7a525b88a1b6.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Hidden Nursery",
-        "cardSet": "lci",
-        "cardType": "Land \u2014 Cave",
-        "cardFront": "https://cards.scryfall.io/normal/front/a/9/a942939a-c06e-4b90-a404-ae5acfffcff9.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Vexing Gull",
-        "cardSet": "thb",
-        "cardType": "Creature \u2014 Bird",
-        "cardFront": "https://cards.scryfall.io/normal/front/8/6/869fee23-df75-448d-9fca-6ba6713d459f.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Glade Gnarr",
-        "cardSet": "apc",
-        "cardType": "Creature \u2014 Beast",
-        "cardFront": "https://cards.scryfall.io/normal/front/e/e/ee38eeae-918b-4d19-b37a-175ac5db37a4.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Refresh",
-        "cardSet": "ody",
+        "cardName": "Ghostfire",
+        "cardSet": "ddt",
         "cardType": "Instant",
-        "cardFront": "https://cards.scryfall.io/normal/front/0/0/0084ba4e-98eb-4eb4-b23e-c5ab4d7d95cb.jpg",
+        "cardFront": "https://cards.scryfall.io/normal/front/2/9/29739dd4-5775-4491-8245-ca2dc38a686e.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Armament of Nyx",
-        "cardSet": "jou",
-        "cardType": "Enchantment \u2014 Aura",
-        "cardFront": "https://cards.scryfall.io/normal/front/4/2/4203df15-dd44-496b-889a-d7a8fe320330.jpg",
+        "cardName": "Snooping Newsie",
+        "cardSet": "snc",
+        "cardType": "Creature \u2014 Human Rogue",
+        "cardFront": "https://cards.scryfall.io/normal/front/b/e/bed1e957-3df1-4640-9980-783817826602.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Myr Scrapling",
-        "cardSet": "mh2",
-        "cardType": "Artifact Creature \u2014 Myr",
-        "cardFront": "https://cards.scryfall.io/normal/front/5/b/5b9072a5-bd7f-4007-a34a-ebe251c95356.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Angelfire Crusader",
-        "cardSet": "apc",
-        "cardType": "Creature \u2014 Human Soldier Knight",
-        "cardFront": "https://cards.scryfall.io/normal/front/a/7/a7af8350-9a51-437c-a55e-19f3e07acfa9.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Memory Drain",
-        "cardSet": "thb",
+        "cardName": "Army of Allah",
+        "cardSet": "arn",
         "cardType": "Instant",
-        "cardFront": "https://cards.scryfall.io/normal/front/a/a/aadc1809-d6bb-455c-b6ce-dd11521808b6.jpg",
+        "cardFront": "https://cards.scryfall.io/normal/front/3/d/3d170015-b125-49a6-a15e-8fd116bbcb14.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Molting Snakeskin",
-        "cardSet": "ktk",
-        "cardType": "Enchantment \u2014 Aura",
-        "cardFront": "https://cards.scryfall.io/normal/front/b/7/b781cbcf-dbba-41c1-be02-2396b824a217.jpg",
+        "cardName": "Abundant Harvest",
+        "cardSet": "cmm",
+        "cardType": "Sorcery",
+        "cardFront": "https://cards.scryfall.io/normal/front/5/1/516e137a-d9d9-4ba7-89fb-e680ddb2c2d1.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Spear Spewer",
-        "cardSet": "rna",
-        "cardType": "Creature \u2014 Goblin Warrior",
-        "cardFront": "https://cards.scryfall.io/normal/front/d/b/dbee1daa-b4ba-49ee-bed1-e70fa09942a2.jpg",
+        "cardName": "Seal of Fire",
+        "cardSet": "jvc",
+        "cardType": "Enchantment",
+        "cardFront": "https://cards.scryfall.io/normal/front/2/1/210f4f5a-4a36-4f2f-8821-d04f3f52c8db.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Scoria Elemental",
-        "cardSet": "som",
-        "cardType": "Creature \u2014 Elemental",
-        "cardFront": "https://cards.scryfall.io/normal/front/c/a/ca4d9198-52a7-4dfe-8f7f-4fa6e19a2479.jpg",
+        "cardName": "Aura Fracture",
+        "cardSet": "pcy",
+        "cardType": "Enchantment",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/e/de8d3e36-977f-4169-8f2a-a4057b912ccb.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Liliana's Specter",
-        "cardSet": "pca",
-        "cardType": "Creature \u2014 Specter",
-        "cardFront": "https://cards.scryfall.io/normal/front/5/4/549089f4-1359-49c3-9560-6fe49d1598d0.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Ashnod's Transmogrant",
-        "cardSet": "me1",
-        "cardType": "Artifact",
-        "cardFront": "https://cards.scryfall.io/normal/front/3/1/31c830a1-5b93-493f-9976-af950f6ec70a.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Kor Line-Slinger",
-        "cardSet": "roe",
-        "cardType": "Creature \u2014 Kor Scout",
-        "cardFront": "https://cards.scryfall.io/normal/front/0/6/068943d2-c456-42a3-8088-3e4923bf6d74.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Glimmerbell",
-        "cardSet": "iko",
-        "cardType": "Creature \u2014 Elemental Jellyfish",
-        "cardFront": "https://cards.scryfall.io/normal/front/5/4/54f71f8a-546a-465e-a254-09a3ae873ef4.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Loran's Escape",
-        "cardSet": "bro",
-        "cardType": "Instant",
-        "cardFront": "https://cards.scryfall.io/normal/front/3/7/3765610d-a0c1-4de9-a81b-ffa3eb06454b.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Guardian Angel",
-        "cardSet": "sum",
-        "cardType": "Instant",
-        "cardFront": "https://cards.scryfall.io/normal/front/0/7/071ca80b-62b4-40e6-81c6-fc5bd9019354.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Acrobatic Maneuver",
-        "cardSet": "kld",
-        "cardType": "Instant",
-        "cardFront": "https://cards.scryfall.io/normal/front/7/4/74f92174-f38f-4623-a5f7-f5be7f7dcc9d.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Carrion Rats",
-        "cardSet": "tor",
-        "cardType": "Creature \u2014 Rat",
-        "cardFront": "https://cards.scryfall.io/normal/front/2/e/2efa2579-c048-4506-babc-ec1c29bb99a8.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Ornamental Courage",
-        "cardSet": "kld",
-        "cardType": "Instant",
-        "cardFront": "https://cards.scryfall.io/normal/front/e/c/ec0c49ab-da04-4461-8440-d6c9086443c6.jpg",
-        "cardBack": ""
-    },
-    {
-        "cardName": "Scale of Chiss-Goria",
+        "cardName": "Necrogen Spellbomb",
         "cardSet": "mrd",
         "cardType": "Artifact",
-        "cardFront": "https://cards.scryfall.io/normal/front/1/3/133b367c-b1a1-46f7-a539-a33ee655affb.jpg",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/9/0950bfe7-2600-4e01-8f54-f03a5c023520.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Burst of Strength",
-        "cardSet": "gtc",
+        "cardName": "Skyshroud Ridgeback",
+        "cardSet": "nem",
+        "cardType": "Creature \u2014 Beast",
+        "cardFront": "https://cards.scryfall.io/normal/front/4/1/410896ab-d3dc-478c-bfd1-c0cad5b1180a.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Severed Legion",
+        "cardSet": "10e",
+        "cardType": "Creature \u2014 Zombie",
+        "cardFront": "https://cards.scryfall.io/normal/front/8/2/82633f38-5af1-429e-8c9d-db536af85309.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Homing Sliver",
+        "cardSet": "tsr",
+        "cardType": "Creature \u2014 Sliver",
+        "cardFront": "https://cards.scryfall.io/normal/front/a/7/a7f2073b-bc1f-4611-9bdf-73cb86892886.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Growth Spiral",
+        "cardSet": "dsc",
         "cardType": "Instant",
-        "cardFront": "https://cards.scryfall.io/normal/front/d/1/d1cbd617-9f2e-4882-b8f0-dfc2fced2281.jpg",
+        "cardFront": "https://cards.scryfall.io/normal/front/1/e/1e10e2b4-9639-41ae-8b8e-253224d3d513.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Supply Caravan",
-        "cardSet": "akh",
-        "cardType": "Creature \u2014 Camel",
-        "cardFront": "https://cards.scryfall.io/normal/front/d/2/d247bd88-9593-462c-8f9e-28e29c064c10.jpg",
+        "cardName": "Master Skald",
+        "cardSet": "khm",
+        "cardType": "Creature \u2014 Dwarf Warrior",
+        "cardFront": "https://cards.scryfall.io/normal/front/6/b/6b269e27-8e17-4bf2-b28a-a83ecc7d22c0.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Kaslem's Stonetree // Kaslem's Strider",
-        "cardSet": "lci",
-        "cardType": "Artifact // Artifact Creature \u2014 Golem",
-        "cardFront": "https://cards.scryfall.io/normal/front/7/8/78b1b412-228a-4e05-a4b3-8159ebf54dc6.jpg",
-        "cardBack": "https://cards.scryfall.io/normal/back/7/8/78b1b412-228a-4e05-a4b3-8159ebf54dc6.jpg"
-    },
-    {
-        "cardName": "Chrome Companion",
-        "cardSet": "eoe",
-        "cardType": "Artifact Creature \u2014 Dog",
-        "cardFront": "https://cards.scryfall.io/normal/front/8/e/8ef269a0-1cb9-4901-81e6-43db3ae3756c.jpg",
+        "cardName": "Rhox Bodyguard",
+        "cardSet": "con",
+        "cardType": "Creature \u2014 Rhino Monk Soldier",
+        "cardFront": "https://cards.scryfall.io/normal/front/1/e/1e9f43c8-9df6-49df-b145-4a19bc55e8f4.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Kathari Bomber",
-        "cardSet": "mm3",
-        "cardType": "Creature \u2014 Bird Shaman",
-        "cardFront": "https://cards.scryfall.io/normal/front/3/d/3dafece7-c3a0-465b-84c2-e095890a7a8b.jpg",
+        "cardName": "Gaelicat",
+        "cardSet": "fin",
+        "cardType": "Creature \u2014 Cat",
+        "cardFront": "https://cards.scryfall.io/normal/front/2/9/29606c49-e1a4-49c3-883b-9122c08bbbc7.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Traveling Philosopher",
-        "cardSet": "ths",
-        "cardType": "Creature \u2014 Human Advisor",
-        "cardFront": "https://cards.scryfall.io/normal/front/e/d/edad0276-45d1-45e5-a6b1-1cd2a99b4f2c.jpg",
+        "cardName": "Viashino Slaughtermaster",
+        "cardSet": "mm2",
+        "cardType": "Creature \u2014 Lizard Warrior",
+        "cardFront": "https://cards.scryfall.io/normal/front/a/4/a441fae0-a9c7-4d91-a69e-8ea1f8fa6947.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Grim Roustabout",
-        "cardSet": "rtr",
-        "cardType": "Creature \u2014 Skeleton Warrior",
-        "cardFront": "https://cards.scryfall.io/normal/front/1/a/1a5ae3f5-5466-4058-a2cd-1a036cb38a8e.jpg",
+        "cardName": "Lunatic Pandora",
+        "cardSet": "fin",
+        "cardType": "Legendary Artifact",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/6/d6e1e3e7-20d4-42cb-ad22-60356b9e8fdc.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Highborn Vampire",
-        "cardSet": "znr",
-        "cardType": "Creature \u2014 Vampire Warrior",
-        "cardFront": "https://cards.scryfall.io/normal/front/2/4/24c40082-516e-4381-a4cc-e61c5a9a6cac.jpg",
+        "cardName": "Moldering Gym // Weight Room",
+        "cardSet": "dsk",
+        "cardType": "Enchantment \u2014 Room // Enchantment \u2014 Room",
+        "cardFront": "https://cards.scryfall.io/normal/front/2/4/245d5a61-c40c-4039-aea8-3ad61415b8f0.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Burden of Guilt",
-        "cardSet": "dka",
-        "cardType": "Enchantment \u2014 Aura",
-        "cardFront": "https://cards.scryfall.io/normal/front/d/7/d7440288-6c55-4502-bf20-3c5b50a2de5a.jpg",
+        "cardName": "Augur il-Vec",
+        "cardSet": "fut",
+        "cardType": "Creature \u2014 Human Cleric",
+        "cardFront": "https://cards.scryfall.io/normal/front/1/c/1c1fdf86-22aa-4c18-a971-8ff1fd8b3de1.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Mechanozoa",
-        "cardSet": "eoe",
-        "cardType": "Artifact Creature \u2014 Robot Jellyfish",
-        "cardFront": "https://cards.scryfall.io/normal/front/0/c/0cb8d8ce-329a-4a97-b3d8-796703ebcb37.jpg",
+        "cardName": "Torch Courier",
+        "cardSet": "grn",
+        "cardType": "Creature \u2014 Goblin",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/4/d4c9fc8c-e68f-4636-84b8-877f6ec04b09.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Savage Mansion",
-        "cardSet": "spm",
-        "cardType": "Land",
-        "cardFront": "https://cards.scryfall.io/normal/front/8/5/855f59a5-17a8-4aca-8a4d-f98111eba14c.jpg",
+        "cardName": "Thunderscape Apprentice",
+        "cardSet": "inv",
+        "cardType": "Creature \u2014 Human Wizard",
+        "cardFront": "https://cards.scryfall.io/normal/front/7/5/75a0b075-5414-48d3-a2b1-47dc20213e96.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Hazy Homunculus",
-        "cardSet": "pcy",
-        "cardType": "Creature \u2014 Homunculus Illusion",
-        "cardFront": "https://cards.scryfall.io/normal/front/f/8/f87489f2-82b7-4be6-80ae-3d5955d5ed92.jpg",
+        "cardName": "Fanatical Devotion",
+        "cardSet": "nem",
+        "cardType": "Enchantment",
+        "cardFront": "https://cards.scryfall.io/normal/front/b/e/be0ed1fb-d380-4e3e-a43f-c39660a996e9.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Hunger of the Nim",
-        "cardSet": "dst",
+        "cardName": "Witty Roastmaster",
+        "cardSet": "snc",
+        "cardType": "Creature \u2014 Devil Citizen",
+        "cardFront": "https://cards.scryfall.io/normal/front/7/1/71d13f19-482b-4a2e-9692-b7d7caf2f9f5.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Goblin Skycutter",
+        "cardSet": "tsp",
+        "cardType": "Creature \u2014 Goblin Warrior",
+        "cardFront": "https://cards.scryfall.io/normal/front/c/4/c45406cd-a036-45d5-a0fb-3c195d40d746.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Echo Tracer",
+        "cardSet": "ddn",
+        "cardType": "Creature \u2014 Human Wizard",
+        "cardFront": "https://cards.scryfall.io/normal/front/e/8/e856fbd5-0e8b-4f28-bfea-0ad73418d140.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Boon of Safety",
+        "cardSet": "snc",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/2/0/2069310a-9fb6-41b7-bbd5-849e3df05632.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Final Flare",
+        "cardSet": "thb",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/f/0/f0c95dee-a480-4878-a967-9e46be9ee372.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Gift of the Gargantuan",
+        "cardSet": "ala",
         "cardType": "Sorcery",
-        "cardFront": "https://cards.scryfall.io/normal/front/b/b/bba50e47-2417-447f-b334-50ef0faecfae.jpg",
+        "cardFront": "https://cards.scryfall.io/normal/front/1/8/1850be87-54de-49b3-a407-6fb2b278b25c.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Gideon's Sacrifice",
-        "cardSet": "mkc",
+        "cardName": "Expedite",
+        "cardSet": "cmr",
         "cardType": "Instant",
-        "cardFront": "https://cards.scryfall.io/normal/front/d/4/d483b409-1853-4456-a077-daeb77e165ba.jpg",
+        "cardFront": "https://cards.scryfall.io/normal/front/b/8/b86c0628-0b61-44f2-91cc-1c3c309631ce.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Brightfield Mustang",
-        "cardSet": "dft",
-        "cardType": "Creature \u2014 Horse Mount",
-        "cardFront": "https://cards.scryfall.io/normal/front/b/2/b2c7cacc-f15e-46c1-9c25-b567bb3e8680.jpg",
+        "cardName": "Haazda Officer",
+        "cardSet": "m20",
+        "cardType": "Creature \u2014 Human Soldier",
+        "cardFront": "https://cards.scryfall.io/normal/front/f/7/f766418a-eb1d-4536-ae51-7f3e8969bb78.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Catacomb Slug",
+        "cardName": "Wave-Wing Elemental",
+        "cardSet": "bfz",
+        "cardType": "Creature \u2014 Elemental",
+        "cardFront": "https://cards.scryfall.io/normal/front/1/1/11b45809-87fc-409d-942a-1f31f68d27ac.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Rejuvenate",
+        "cardSet": "usg",
+        "cardType": "Sorcery",
+        "cardFront": "https://cards.scryfall.io/normal/front/f/e/fe3709a3-7a1b-4644-b1d5-e1ffef549f94.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Gluttonous Cyclops",
+        "cardSet": "jou",
+        "cardType": "Creature \u2014 Cyclops",
+        "cardFront": "https://cards.scryfall.io/normal/front/e/5/e583f6be-3d78-4085-9059-c3c989a4977f.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Blightsoil Druid",
+        "cardSet": "ema",
+        "cardType": "Creature \u2014 Elf Druid",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/1/d1fd17d4-96e1-4b53-8375-57f800dc661a.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Highland Forest",
+        "cardSet": "clb",
+        "cardType": "Snow Land \u2014 Mountain Forest",
+        "cardFront": "https://cards.scryfall.io/normal/front/5/9/59f64a32-c364-4750-94ed-d4d71c1a3511.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Seismic Strike",
+        "cardSet": "m15",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/9/7/972d0b03-8602-4ada-86b9-4262941bae67.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Dread Return",
+        "cardSet": "cmm",
+        "cardType": "Sorcery",
+        "cardFront": "https://cards.scryfall.io/normal/front/3/4/34a87901-98bb-41dd-b566-bcb510c20022.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Armor Thrull",
+        "cardSet": "me2",
+        "cardType": "Creature \u2014 Thrull",
+        "cardFront": "https://cards.scryfall.io/normal/front/f/c/fcd8c672-85f7-4bec-9297-7d253419eaa9.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Gift of the Deity",
+        "cardSet": "eve",
+        "cardType": "Enchantment \u2014 Aura",
+        "cardFront": "https://cards.scryfall.io/normal/front/e/e/ee2dba5c-2f00-4a44-9093-3b845a8bf552.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Hyena Umbra",
+        "cardSet": "2x2",
+        "cardType": "Enchantment \u2014 Aura",
+        "cardFront": "https://cards.scryfall.io/normal/front/f/6/f6cc0f1f-191a-4141-965f-8d159bf54732.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Backstreet Bruiser",
+        "cardSet": "snc",
+        "cardType": "Creature \u2014 Octopus Rogue",
+        "cardFront": "https://cards.scryfall.io/normal/front/8/d/8d3a94c8-a7eb-4f05-8d48-d42e5129b09a.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Mirran Mettle",
+        "cardSet": "mbs",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/e/d/edbb5778-fa9a-4a1f-be4f-627630c3e3ca.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Fear",
+        "cardSet": "10e",
+        "cardType": "Enchantment \u2014 Aura",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/8/d8fa57eb-e307-4104-a291-c6cbfa235816.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Thermal Navigator",
+        "cardSet": "5dn",
+        "cardType": "Artifact Creature \u2014 Construct",
+        "cardFront": "https://cards.scryfall.io/normal/front/e/b/eb86854f-c933-4b6c-bd0a-67c3615e908f.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Goblin Mountaineer",
+        "cardSet": "ala",
+        "cardType": "Creature \u2014 Goblin Scout",
+        "cardFront": "https://cards.scryfall.io/normal/front/1/a/1afa1475-797d-4cdc-93d6-e186c25e0bf5.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Ravenous Lindwurm",
+        "cardSet": "khm",
+        "cardType": "Creature \u2014 Wurm",
+        "cardFront": "https://cards.scryfall.io/normal/front/9/9/9961e3fc-167e-4043-8510-cc5cf08d473e.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Heap Gate",
+        "cardSet": "clb",
+        "cardType": "Land \u2014 Gate",
+        "cardFront": "https://cards.scryfall.io/normal/front/6/8/68489d65-1978-48b1-a903-2ef38c583239.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Sage of the Unknowable",
+        "cardSet": "mh3",
+        "cardType": "Creature \u2014 Human Wizard",
+        "cardFront": "https://cards.scryfall.io/normal/front/9/f/9f481ab3-ca6c-4a5c-aa32-d087464fc4da.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Fatal Fumes",
+        "cardSet": "dgm",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/9/6/967aa636-a11d-4c5c-ba85-648734b295c2.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Echoing Courage",
+        "cardSet": "a25",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/4/04367e72-3f8c-4cba-8bdf-5a1ba9c9f01f.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Monstrous Growth",
+        "cardSet": "8ed",
+        "cardType": "Sorcery",
+        "cardFront": "https://cards.scryfall.io/normal/front/7/e/7e5a2687-af7a-42ad-8938-f3534c7da222.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Soothing of Sm\u00e9agol",
+        "cardSet": "ltr",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/b/e/be6400e8-7f99-4005-9a92-ffbc359d3871.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Red Mage's Rapier",
+        "cardSet": "fin",
+        "cardType": "Artifact \u2014 Equipment",
+        "cardFront": "https://cards.scryfall.io/normal/front/e/0/e0579955-75f9-47a9-8b03-e287d120826a.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Gouged Zealot",
+        "cardSet": "mh2",
+        "cardType": "Creature \u2014 Cyclops Berserker",
+        "cardFront": "https://cards.scryfall.io/normal/front/5/c/5c0595a6-a9e5-4ea8-b733-382e6c365759.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Dimir House Guard",
+        "cardSet": "rvr",
+        "cardType": "Creature \u2014 Skeleton",
+        "cardFront": "https://cards.scryfall.io/normal/front/a/1/a1974bac-4763-4f95-ae60-061e34d0283d.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Wild Nacatl",
+        "cardSet": "ddh",
+        "cardType": "Creature \u2014 Cat Warrior",
+        "cardFront": "https://cards.scryfall.io/normal/front/5/a/5a3bb291-11d1-45e0-a60a-e75c7dc94b94.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Viper's Kiss",
+        "cardSet": "ths",
+        "cardType": "Enchantment \u2014 Aura",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/9/0906ebfc-4756-4caf-83ff-859e181f3bef.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Survey the Wreckage",
+        "cardSet": "rtr",
+        "cardType": "Sorcery",
+        "cardFront": "https://cards.scryfall.io/normal/front/a/6/a6e750f9-ad86-4d60-98a3-78d11cd52cd1.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Wall of Runes",
+        "cardSet": "m21",
+        "cardType": "Creature \u2014 Wall",
+        "cardFront": "https://cards.scryfall.io/normal/front/6/a/6ac0f66a-213f-463e-8ebb-35ff5940ea06.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Kithkin Armor",
+        "cardSet": "wth",
+        "cardType": "Enchantment \u2014 Aura",
+        "cardFront": "https://cards.scryfall.io/normal/front/3/9/395e7882-0429-46aa-8e38-be707067c588.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Murmuring Phantasm",
+        "cardSet": "jmp",
+        "cardType": "Creature \u2014 Spirit",
+        "cardFront": "https://cards.scryfall.io/normal/front/8/7/87c1aaff-ab26-437e-a88a-494683aec831.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Fervent Strike",
+        "cardSet": "dom",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/e/4/e4f76e51-a726-4a5f-ae2b-2e826e89f5f7.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Teferi's Drake",
+        "cardSet": "mir",
+        "cardType": "Creature \u2014 Drake",
+        "cardFront": "https://cards.scryfall.io/normal/front/c/2/c24823df-5651-4578-a0c8-f9f52f66abe4.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Rakdos Guildgate",
+        "cardSet": "fdn",
+        "cardType": "Land \u2014 Gate",
+        "cardFront": "https://cards.scryfall.io/normal/front/e/1/e1f01964-c610-4d0f-a2b4-f52e46dc50d2.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Tar Snare",
+        "cardSet": "ogw",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/6/06ee017c-25ae-4668-8cfe-ae3b55e851aa.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Dawn's Reflection",
+        "cardSet": "c18",
+        "cardType": "Enchantment \u2014 Aura",
+        "cardFront": "https://cards.scryfall.io/normal/front/1/3/1366d406-4539-408f-93c1-f940327c1ba2.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Deliberate",
+        "cardSet": "znr",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/c/4/c41c0dd0-fef2-4f3c-8f3c-9c9c521b5442.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Inventor's Axe",
+        "cardSet": "mh3",
+        "cardType": "Artifact \u2014 Equipment",
+        "cardFront": "https://cards.scryfall.io/normal/front/3/b/3b2f918c-bd02-4a63-b4c2-ca204c77b208.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Lonely Arroyo",
+        "cardSet": "otj",
+        "cardType": "Land \u2014 Desert",
+        "cardFront": "https://cards.scryfall.io/normal/front/4/b/4b778b63-e5fc-4d63-a93b-4372f32cade2.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Village Rites",
+        "cardSet": "inr",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/4/2/42ed35e9-51cd-468a-86a9-9412553cf50d.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Blazing Volley",
+        "cardSet": "iko",
+        "cardType": "Sorcery",
+        "cardFront": "https://cards.scryfall.io/normal/front/3/a/3adc0288-acdf-4a99-9bfb-919cae1aeb69.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Calcite Snapper",
+        "cardSet": "wwk",
+        "cardType": "Creature \u2014 Turtle",
+        "cardFront": "https://cards.scryfall.io/normal/front/a/e/aec0c914-1188-45c9-a68c-c3b915dbebf7.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Tymora's Invoker",
+        "cardSet": "clb",
+        "cardType": "Creature \u2014 Orc Rogue",
+        "cardFront": "https://cards.scryfall.io/normal/front/a/f/af5535db-696f-4c43-a8b9-c8e521b62c9c.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Narrow-Minded Baloney Fireworks",
+        "cardSet": "sunf",
+        "cardType": "Stickers",
+        "cardFront": "https://cards.scryfall.io/normal/front/1/b/1b516ae7-2891-40e9-80a1-48ec62171275.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Smite",
+        "cardSet": "tpr",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/b/2/b2286067-c964-4bed-bfb8-c6280f104b63.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Abundant Maw",
+        "cardSet": "inr",
+        "cardType": "Creature \u2014 Eldrazi Leech",
+        "cardFront": "https://cards.scryfall.io/normal/front/c/5/c5620c22-910c-4d33-a5e9-4c4eac8c6304.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Deep-Sea Terror",
         "cardSet": "ori",
-        "cardType": "Creature \u2014 Slug",
-        "cardFront": "https://cards.scryfall.io/normal/front/d/3/d30d6df7-6199-4b06-9d45-785ee1e2ed3b.jpg",
+        "cardType": "Creature \u2014 Serpent",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/0/007b526c-5387-4ed4-a320-b826d507e014.jpg",
         "cardBack": ""
     },
     {
-        "cardName": "Sledding Otter-Penguin",
+        "cardName": "Scarscale Ritual",
+        "cardSet": "shm",
+        "cardType": "Sorcery",
+        "cardFront": "https://cards.scryfall.io/normal/front/7/1/71d3f64a-ffb9-4f66-91c0-463b5d2d381b.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Mishra's Onslaught",
+        "cardSet": "bro",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/e/d/eda82e38-c1d4-4019-8f79-f91602d941b0.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Agency Coroner",
+        "cardSet": "mkm",
+        "cardType": "Creature \u2014 Ogre Cleric",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/6/d63f2c23-e877-42e3-9362-5d003a173c6d.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Hightide Hermit",
+        "cardSet": "kld",
+        "cardType": "Creature \u2014 Crab",
+        "cardFront": "https://cards.scryfall.io/normal/front/6/9/69c871fa-d333-4c73-9d5c-f5cfec5954da.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Aven Sentry",
+        "cardSet": "dom",
+        "cardType": "Creature \u2014 Bird Soldier",
+        "cardFront": "https://cards.scryfall.io/normal/front/b/f/bf49e5bf-07fb-44b0-8e74-092088d9019f.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Deconstruct",
+        "cardSet": "mrd",
+        "cardType": "Sorcery",
+        "cardFront": "https://cards.scryfall.io/normal/front/5/3/53face79-d2bf-43dd-aa4e-d724c2b68c49.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Oran-Rief Survivalist",
+        "cardSet": "zen",
+        "cardType": "Creature \u2014 Human Warrior Ally",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/d/0d598220-bddd-48a4-8c80-eb149c6292a3.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Charge",
+        "cardSet": "dom",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/0/000eded9-854c-408a-aadf-c26209e27432.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Brainstorm",
+        "cardSet": "dsc",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/8/b/8beb987c-1b67-4a4e-ae71-58547afad2a0.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Nightblade Brigade",
+        "cardSet": "tdm",
+        "cardType": "Creature \u2014 Goblin Soldier",
+        "cardFront": "https://cards.scryfall.io/normal/front/6/4/648debd9-d4cf-4788-8882-f1601a3d87f5.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Cradle of the Accursed",
+        "cardSet": "akh",
+        "cardType": "Land \u2014 Desert",
+        "cardFront": "https://cards.scryfall.io/normal/front/4/1/41713e82-c3d3-4c2f-b075-f684cbd68ce8.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Tabaxi Toucaneers",
+        "cardSet": "clb",
+        "cardType": "Creature \u2014 Cat Ranger",
+        "cardFront": "https://cards.scryfall.io/normal/front/4/3/43e38761-70e0-4f6e-a4c2-7c9a17557d25.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Tuskeri Firewalker",
+        "cardSet": "khm",
+        "cardType": "Creature \u2014 Human Berserker",
+        "cardFront": "https://cards.scryfall.io/normal/front/a/5/a54d0170-a375-4e65-b98d-3e94a3aeef90.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Angelic Edict",
+        "cardSet": "jmp",
+        "cardType": "Sorcery",
+        "cardFront": "https://cards.scryfall.io/normal/front/f/1/f14ed7f7-83c4-425b-a2b7-5bd76558ce76.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Ghoulcaller's Bell",
+        "cardSet": "isd",
+        "cardType": "Artifact",
+        "cardFront": "https://cards.scryfall.io/normal/front/8/6/863e7c2a-698c-4dce-a10b-ca58e4affa57.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Horrifying Revelation",
+        "cardSet": "mbs",
+        "cardType": "Sorcery",
+        "cardFront": "https://cards.scryfall.io/normal/front/2/7/27ff5fbd-7ce8-4188-8228-0eab0d69a7a1.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Rat Out",
+        "cardSet": "woe",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/f/2/f2c42755-bf91-4c75-95c6-d2a60ba3492a.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Machine Over Matter",
+        "cardSet": "bro",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/0/d08eadf5-a86d-4e8d-b65d-79b4f88477b9.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Mysteries of the Deep",
+        "cardSet": "wwk",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/1/9/1907b1e9-ae1e-43fb-9033-3c4322277fff.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Blind-Spot Giant",
+        "cardSet": "mma",
+        "cardType": "Creature \u2014 Giant Warrior",
+        "cardFront": "https://cards.scryfall.io/normal/front/8/7/87d76ed9-7a2c-466f-be39-1f7880744c33.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Spectral Snatcher",
+        "cardSet": "dsk",
+        "cardType": "Creature \u2014 Spirit",
+        "cardFront": "https://cards.scryfall.io/normal/front/6/8/68f90f57-94a0-4ee1-9383-093e8fca52ea.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Goblin Freerunner",
+        "cardSet": "ogw",
+        "cardType": "Creature \u2014 Goblin Warrior Ally",
+        "cardFront": "https://cards.scryfall.io/normal/front/5/0/5082e0a1-5c3e-4b8c-ba88-290151564133.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Fear of Lost Teeth",
+        "cardSet": "dsk",
+        "cardType": "Enchantment Creature \u2014 Nightmare",
+        "cardFront": "https://cards.scryfall.io/normal/front/2/5/259045fe-f349-4be1-bf29-465d084ed35e.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Kobold Taskmaster",
+        "cardSet": "me3",
+        "cardType": "Creature \u2014 Kobold",
+        "cardFront": "https://cards.scryfall.io/normal/front/8/6/8619e6be-ae9c-4045-aa19-419be35ab6f6.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Falkenrath Noble",
+        "cardSet": "dsc",
+        "cardType": "Creature \u2014 Vampire Noble",
+        "cardFront": "https://cards.scryfall.io/normal/front/f/3/f38eac93-3a0e-40e0-84f8-3670fd84ca00.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Underfoot Underdogs",
+        "cardSet": "tdm",
+        "cardType": "Creature \u2014 Goblin Warrior",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/4/049acc79-1d68-410f-a081-88a7d40e823a.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Addle",
+        "cardSet": "vma",
+        "cardType": "Sorcery",
+        "cardFront": "https://cards.scryfall.io/normal/front/f/7/f7fcce83-4378-405f-8007-dd0ed002be6b.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Bold Impaler",
+        "cardSet": "emn",
+        "cardType": "Creature \u2014 Vampire Knight",
+        "cardFront": "https://cards.scryfall.io/normal/front/4/5/45bb2e6d-2ead-4ce3-8e5e-fc6900435583.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Mountain Yeti",
+        "cardSet": "me1",
+        "cardType": "Creature \u2014 Yeti",
+        "cardFront": "https://cards.scryfall.io/normal/front/b/c/bc6a062c-06ff-4295-83f2-48868c664d76.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Skyshroud Claim",
+        "cardSet": "eoc",
+        "cardType": "Sorcery",
+        "cardFront": "https://cards.scryfall.io/normal/front/8/6/860c0808-3ec1-4182-bf83-783720a02780.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Jagwasp Swarm",
+        "cardSet": "wwk",
+        "cardType": "Creature \u2014 Insect",
+        "cardFront": "https://cards.scryfall.io/normal/front/b/d/bd4e933b-de65-4089-877f-c598004b8e7e.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Agony Warp",
+        "cardSet": "2x2",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/5/8/5890a23e-1da0-432b-8dc8-85b92dee9ba1.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Twins of Maurer Estate",
+        "cardSet": "uma",
+        "cardType": "Creature \u2014 Vampire",
+        "cardFront": "https://cards.scryfall.io/normal/front/f/6/f689e20a-2c24-44a3-9e1b-7717df3d1948.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Pumpkin Bombardment",
+        "cardSet": "spm",
+        "cardType": "Sorcery",
+        "cardFront": "https://cards.scryfall.io/normal/front/a/2/a268ad73-9a1f-47d9-9a85-a4669a769c3d.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Glitterflitter",
+        "cardSet": "unf",
+        "cardType": "Creature \u2014 Faerie Performer",
+        "cardFront": "https://cards.scryfall.io/normal/front/e/0/e03dfb51-c0df-4cb7-8e42-57d52cec4e89.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Hunt the Weak",
+        "cardSet": "rix",
+        "cardType": "Sorcery",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/5/05d6cab6-b0f9-4631-a4bd-5ff1d6d53880.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Skeleton Archer",
+        "cardSet": "fdn",
+        "cardType": "Creature \u2014 Skeleton Archer",
+        "cardFront": "https://cards.scryfall.io/normal/front/7/a/7a959048-0d8a-41bb-8a33-52264e525085.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Elderleaf Mentor",
+        "cardSet": "khm",
+        "cardType": "Creature \u2014 Elf Warrior",
+        "cardFront": "https://cards.scryfall.io/normal/front/5/e/5e8bded3-46c3-474f-9d09-978df8705ad1.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Volcanic Submersion",
+        "cardSet": "ala",
+        "cardType": "Sorcery",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/e/0ec1f1fa-41c9-4bc0-9171-902cd456aa73.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Smite the Deathless",
+        "cardSet": "ltr",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/8/b/8b716fcc-c4cc-4987-be82-2897a9888d23.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Nephalia Seakite",
+        "cardSet": "m14",
+        "cardType": "Creature \u2014 Bird",
+        "cardFront": "https://cards.scryfall.io/normal/front/3/9/39714ec8-b43c-4d61-9e53-46ac62da2c9f.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Coral Reef",
+        "cardSet": "hml",
+        "cardType": "Enchantment",
+        "cardFront": "https://cards.scryfall.io/normal/front/4/2/42fe2280-a996-4072-b5bf-f4fd56607a51.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Aven Fleetwing",
+        "cardSet": "m12",
+        "cardType": "Creature \u2014 Bird Soldier",
+        "cardFront": "https://cards.scryfall.io/normal/front/5/7/57626fd2-d101-4e23-946f-8309c9676fe5.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Bloodborn Scoundrels",
+        "cardSet": "bbd",
+        "cardType": "Creature \u2014 Vampire Rogue",
+        "cardFront": "https://cards.scryfall.io/normal/front/8/7/8750abff-ae70-4abe-a51a-b93f71b48ef1.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Goblin Tomb Raider",
+        "cardSet": "lci",
+        "cardType": "Creature \u2014 Goblin Pirate",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/1/018160fe-f602-43f5-8495-241a08eaa69c.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Vortex Runner",
+        "cardSet": "stx",
+        "cardType": "Creature \u2014 Human Wizard",
+        "cardFront": "https://cards.scryfall.io/normal/front/b/a/bab4a68d-5d26-42d8-bc51-15e3c1f95ebe.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Ahriman",
+        "cardSet": "fin",
+        "cardType": "Creature \u2014 Eye Horror",
+        "cardFront": "https://cards.scryfall.io/normal/front/1/6/162a415c-5465-497e-8f4e-c6f09681641d.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Purple Pentapus",
         "cardSet": "tle",
-        "cardType": "Creature \u2014 Otter Bird",
-        "cardFront": "https://cards.scryfall.io/normal/front/d/c/dcdb397d-3f68-4ede-b28a-4fa5c6f934dd.jpg",
+        "cardType": "Creature \u2014 Octopus Starfish",
+        "cardFront": "https://cards.scryfall.io/normal/front/c/3/c3ec1b6e-2f63-4b84-a101-8764c3e6d0f2.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Fuming Effigy",
+        "cardSet": "stx",
+        "cardType": "Creature \u2014 Spirit",
+        "cardFront": "https://cards.scryfall.io/normal/front/7/c/7ce76a38-fc5f-4e29-ba24-4a877179a62c.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Flame Burst",
+        "cardSet": "ody",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/6/4/64bbd438-7df2-4d7b-88ad-4531ebaf3931.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Granite Witness",
+        "cardSet": "mkm",
+        "cardType": "Artifact Creature \u2014 Gargoyle Detective",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/a/daee9d98-f8c6-4980-8f23-c6c636b69430.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Canopy Spider",
+        "cardSet": "m20",
+        "cardType": "Creature \u2014 Spider",
+        "cardFront": "https://cards.scryfall.io/normal/front/0/a/0ae7fabb-dcb6-4c21-87ee-2893b63814be.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Conduit Pylons",
+        "cardSet": "otj",
+        "cardType": "Land \u2014 Desert",
+        "cardFront": "https://cards.scryfall.io/normal/front/5/f/5ffa48cc-b991-4d47-b7ec-cf678915c758.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Star Pupil",
+        "cardSet": "stx",
+        "cardType": "Creature \u2014 Human Wizard",
+        "cardFront": "https://cards.scryfall.io/normal/front/9/9/99e9318f-2e17-4b6e-895f-c17cd5d0d282.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Vent Sentinel",
+        "cardSet": "ima",
+        "cardType": "Creature \u2014 Elemental",
+        "cardFront": "https://cards.scryfall.io/normal/front/6/b/6b6f563e-4f94-4caf-83b9-bfc64e18bc9c.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Orim's Thunder",
+        "cardSet": "dmr",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/5/f/5f86bba5-e203-4a86-a415-ce748f6d1f6f.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Dredging Claw",
+        "cardSet": "bro",
+        "cardType": "Artifact \u2014 Equipment",
+        "cardFront": "https://cards.scryfall.io/normal/front/c/8/c8e133a2-631f-43f6-9fdd-e542d4d15e10.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Intervene",
+        "cardSet": "ulg",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/4/b/4b0e3894-5dfe-4d03-9996-eebf96c58168.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Not Dead After All",
+        "cardSet": "woe",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/0/d01a2b68-efe6-4027-846d-db7b19d9eef6.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Oona's Grace",
+        "cardSet": "c19",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/e/2/e2128105-de04-4f51-81c7-37f30cf324d4.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Ivory Giant",
+        "cardSet": "tsr",
+        "cardType": "Creature \u2014 Giant",
+        "cardFront": "https://cards.scryfall.io/normal/front/c/1/c1b1b580-4a2c-41a4-a1e0-85b659b3a30e.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Grim Physician",
+        "cardSet": "thb",
+        "cardType": "Creature \u2014 Zombie",
+        "cardFront": "https://cards.scryfall.io/normal/front/b/7/b7e92c82-840f-4c75-b617-7b58a07be5b4.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Agate-Blade Assassin",
+        "cardSet": "blb",
+        "cardType": "Creature \u2014 Lizard Assassin",
+        "cardFront": "https://cards.scryfall.io/normal/front/3/9/39ebb84a-1c52-4b07-9bd0-b360523b3a5b.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Fugitive Wizard",
+        "cardSet": "m15",
+        "cardType": "Creature \u2014 Human Wizard",
+        "cardFront": "https://cards.scryfall.io/normal/front/5/2/520ad9d0-5f41-4183-a04e-58a61ad7202b.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Frost Breath",
+        "cardSet": "m21",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/3/9/393fc485-d3c1-4826-933d-89f66df769d4.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Jilt",
+        "cardSet": "apc",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/a/0/a010d2b1-960d-4032-a47a-61fe0998bee3.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Hidden Grotto",
+        "cardSet": "blb",
+        "cardType": "Land",
+        "cardFront": "https://cards.scryfall.io/normal/front/4/b/4ba8f2e7-8357-4862-97dc-1942d066023a.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Mutant's Prey",
+        "cardSet": "dgm",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/d/9/d9e32d47-2796-4eac-b373-a93506d8d6b7.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Orcish Lumberjack",
+        "cardSet": "vma",
+        "cardType": "Creature \u2014 Orc",
+        "cardFront": "https://cards.scryfall.io/normal/front/1/4/14fb947c-563e-4811-98de-e25bd141a6e5.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Crash and Burn",
+        "cardSet": "dft",
+        "cardType": "Instant",
+        "cardFront": "https://cards.scryfall.io/normal/front/3/3/339a41a1-b36f-4b81-b74c-220d279c0e26.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Game-Trail Changeling",
+        "cardSet": "mor",
+        "cardType": "Creature \u2014 Shapeshifter",
+        "cardFront": "https://cards.scryfall.io/normal/front/7/b/7bc76a7f-516f-4d0b-b024-39d5c8096a9f.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Cinder Crawler",
+        "cardSet": "exo",
+        "cardType": "Creature \u2014 Salamander",
+        "cardFront": "https://cards.scryfall.io/normal/front/a/9/a9406050-d76b-4569-a463-e21acaf84166.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Mothrider Samurai",
+        "cardSet": "chk",
+        "cardType": "Creature \u2014 Human Samurai",
+        "cardFront": "https://cards.scryfall.io/normal/front/3/5/35a236f7-f008-4eb8-91d9-31ea8589cf0c.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Gladecover Scout",
+        "cardSet": "m14",
+        "cardType": "Creature \u2014 Elf Scout",
+        "cardFront": "https://cards.scryfall.io/normal/front/e/1/e112d77d-f019-4709-b31a-b02952df0e35.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Seek the Wilds",
+        "cardSet": "gnt",
+        "cardType": "Sorcery",
+        "cardFront": "https://cards.scryfall.io/normal/front/4/a/4ac58ffa-a9ea-4bc3-bd43-76b0764742bb.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Murk Strider",
+        "cardSet": "bfz",
+        "cardType": "Creature \u2014 Eldrazi Processor",
+        "cardFront": "https://cards.scryfall.io/normal/front/1/3/130849ba-3893-490d-bfb0-51c76e53cf62.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Nantuko Shaman",
+        "cardSet": "tsr",
+        "cardType": "Creature \u2014 Insect Shaman",
+        "cardFront": "https://cards.scryfall.io/normal/front/a/3/a3370c6d-a743-49b3-b869-da65b49391d9.jpg",
+        "cardBack": ""
+    },
+    {
+        "cardName": "Smoke Teller",
+        "cardSet": "ktk",
+        "cardType": "Creature \u2014 Human Shaman",
+        "cardFront": "https://cards.scryfall.io/normal/front/1/9/1916a2d9-4747-4118-b1b2-7a5ce492e3fc.jpg",
         "cardBack": ""
     }
 ]
