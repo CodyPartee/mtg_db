@@ -106,7 +106,6 @@ try:
             fileCount = 1
             cardStorage = []
             for rarity in dataStandard:
-                print(rarity)
                 for card in dataStandard[rarity]:
                     cardStorage.append(card)
                     if len(cardStorage) == maxCards:
